@@ -1,0 +1,2665 @@
+Mcronald(arrival chance is 0.2) with 1 queue / 1 service areas
+0: []
+   ServiceArea#1  -1:-1
+1: []
+   ServiceArea#1  -1:-1
+2: []
+   ServiceArea#1  -1:-1
+3: []
+   ServiceArea#1  -1:-1
+
+ new customer min# 4
+4: []
+   ServiceArea#1  4:3
+5: []
+   ServiceArea#1  4:2
+6: []
+   ServiceArea#1  4:1
+7: []
+    Customer# 4 leaves and his total wait time is 3
+8: []
+   ServiceArea#1  -1:-1
+9: []
+   ServiceArea#1  -1:-1
+10: []
+   ServiceArea#1  -1:-1
+11: []
+   ServiceArea#1  -1:-1
+12: []
+   ServiceArea#1  -1:-1
+
+ new customer min# 13
+13: []
+   ServiceArea#1  13:2
+14: []
+   ServiceArea#1  13:1
+15: []
+    Customer# 13 leaves and his total wait time is 2
+16: []
+   ServiceArea#1  -1:-1
+
+ new customer min# 17
+17: []
+   ServiceArea#1  17:5
+18: []
+   ServiceArea#1  17:4
+19: []
+   ServiceArea#1  17:3
+20: []
+   ServiceArea#1  17:2
+21: []
+   ServiceArea#1  17:1
+22: []
+    Customer# 17 leaves and his total wait time is 5
+23: []
+   ServiceArea#1  -1:-1
+24: []
+   ServiceArea#1  -1:-1
+25: []
+   ServiceArea#1  -1:-1
+26: []
+   ServiceArea#1  -1:-1
+27: []
+   ServiceArea#1  -1:-1
+28: []
+   ServiceArea#1  -1:-1
+29: []
+   ServiceArea#1  -1:-1
+30: []
+   ServiceArea#1  -1:-1
+31: []
+   ServiceArea#1  -1:-1
+32: []
+   ServiceArea#1  -1:-1
+33: []
+   ServiceArea#1  -1:-1
+34: []
+   ServiceArea#1  -1:-1
+35: []
+   ServiceArea#1  -1:-1
+36: []
+   ServiceArea#1  -1:-1
+
+ new customer min# 37
+37: []
+   ServiceArea#1  37:7
+
+ new customer min# 38
+38: [38]
+   ServiceArea#1  37:6
+39: [38]
+   ServiceArea#1  37:5
+40: [38]
+   ServiceArea#1  37:4
+41: [38]
+   ServiceArea#1  37:3
+42: [38]
+   ServiceArea#1  37:2
+43: [38]
+   ServiceArea#1  37:1
+44: [38]
+    Customer# 37 leaves and his total wait time is 7
+45: []
+   ServiceArea#1  38:5
+46: []
+   ServiceArea#1  38:4
+47: []
+   ServiceArea#1  38:3
+48: []
+   ServiceArea#1  38:2
+49: []
+   ServiceArea#1  38:1
+
+ new customer min# 50
+50: [50]
+    Customer# 38 leaves and his total wait time is 12
+51: []
+   ServiceArea#1  50:5
+
+ new customer min# 52
+52: [52]
+   ServiceArea#1  50:4
+53: [52]
+   ServiceArea#1  50:3
+
+ new customer min# 54
+54: [52, 54]
+   ServiceArea#1  50:2
+55: [52, 54]
+   ServiceArea#1  50:1
+56: [52, 54]
+    Customer# 50 leaves and his total wait time is 6
+57: [54]
+   ServiceArea#1  52:5
+58: [54]
+   ServiceArea#1  52:4
+59: [54]
+   ServiceArea#1  52:3
+60: [54]
+   ServiceArea#1  52:2
+
+ new customer min# 61
+61: [54, 61]
+   ServiceArea#1  52:1
+62: [54, 61]
+    Customer# 52 leaves and his total wait time is 10
+63: [61]
+   ServiceArea#1  54:6
+64: [61]
+   ServiceArea#1  54:5
+
+ new customer min# 65
+65: [61, 65]
+   ServiceArea#1  54:4
+66: [61, 65]
+   ServiceArea#1  54:3
+67: [61, 65]
+   ServiceArea#1  54:2
+68: [61, 65]
+   ServiceArea#1  54:1
+69: [61, 65]
+    Customer# 54 leaves and his total wait time is 15
+70: [65]
+   ServiceArea#1  61:4
+71: [65]
+   ServiceArea#1  61:3
+72: [65]
+   ServiceArea#1  61:2
+73: [65]
+   ServiceArea#1  61:1
+74: [65]
+    Customer# 61 leaves and his total wait time is 13
+
+ new customer min# 75
+75: [75]
+   ServiceArea#1  65:6
+76: [75]
+   ServiceArea#1  65:5
+77: [75]
+   ServiceArea#1  65:4
+78: [75]
+   ServiceArea#1  65:3
+79: [75]
+   ServiceArea#1  65:2
+80: [75]
+   ServiceArea#1  65:1
+81: [75]
+    Customer# 65 leaves and his total wait time is 16
+
+ new customer min# 82
+82: [82]
+   ServiceArea#1  75:4
+83: [82]
+   ServiceArea#1  75:3
+84: [82]
+   ServiceArea#1  75:2
+
+ new customer min# 85
+85: [82, 85]
+   ServiceArea#1  75:1
+86: [82, 85]
+    Customer# 75 leaves and his total wait time is 11
+87: [85]
+   ServiceArea#1  82:3
+88: [85]
+   ServiceArea#1  82:2
+89: [85]
+   ServiceArea#1  82:1
+
+ new customer min# 90
+90: [85, 90]
+    Customer# 82 leaves and his total wait time is 8
+91: [90]
+   ServiceArea#1  85:5
+92: [90]
+   ServiceArea#1  85:4
+93: [90]
+   ServiceArea#1  85:3
+94: [90]
+   ServiceArea#1  85:2
+95: [90]
+   ServiceArea#1  85:1
+96: [90]
+    Customer# 85 leaves and his total wait time is 11
+97: []
+   ServiceArea#1  90:1
+98: []
+    Customer# 90 leaves and his total wait time is 8
+99: []
+   ServiceArea#1  -1:-1
+100: []
+   ServiceArea#1  -1:-1
+101: []
+   ServiceArea#1  -1:-1
+102: []
+   ServiceArea#1  -1:-1
+103: []
+   ServiceArea#1  -1:-1
+104: []
+   ServiceArea#1  -1:-1
+105: []
+   ServiceArea#1  -1:-1
+106: []
+   ServiceArea#1  -1:-1
+107: []
+   ServiceArea#1  -1:-1
+108: []
+   ServiceArea#1  -1:-1
+109: []
+   ServiceArea#1  -1:-1
+110: []
+   ServiceArea#1  -1:-1
+111: []
+   ServiceArea#1  -1:-1
+112: []
+   ServiceArea#1  -1:-1
+
+ new customer min# 113
+113: []
+   ServiceArea#1  113:7
+114: []
+   ServiceArea#1  113:6
+
+ new customer min# 115
+115: [115]
+   ServiceArea#1  113:5
+116: [115]
+   ServiceArea#1  113:4
+117: [115]
+   ServiceArea#1  113:3
+118: [115]
+   ServiceArea#1  113:2
+
+ new customer min# 119
+119: [115, 119]
+   ServiceArea#1  113:1
+120: [115, 119]
+    Customer# 113 leaves and his total wait time is 7
+121: [119]
+   ServiceArea#1  115:5
+122: [119]
+   ServiceArea#1  115:4
+
+ new customer min# 123
+123: [119, 123]
+   ServiceArea#1  115:3
+
+ new customer min# 124
+124: [119, 123, 124]
+   ServiceArea#1  115:2
+125: [119, 123, 124]
+   ServiceArea#1  115:1
+126: [119, 123, 124]
+    Customer# 115 leaves and his total wait time is 11
+127: [123, 124]
+   ServiceArea#1  119:4
+128: [123, 124]
+   ServiceArea#1  119:3
+
+ new customer min# 129
+129: [123, 124, 129]
+   ServiceArea#1  119:2
+130: [123, 124, 129]
+   ServiceArea#1  119:1
+131: [123, 124, 129]
+    Customer# 119 leaves and his total wait time is 12
+132: [124, 129]
+   ServiceArea#1  123:4
+133: [124, 129]
+   ServiceArea#1  123:3
+134: [124, 129]
+   ServiceArea#1  123:2
+135: [124, 129]
+   ServiceArea#1  123:1
+
+ new customer min# 136
+136: [124, 129, 136]
+    Customer# 123 leaves and his total wait time is 13
+137: [129, 136]
+   ServiceArea#1  124:6
+138: [129, 136]
+   ServiceArea#1  124:5
+139: [129, 136]
+   ServiceArea#1  124:4
+140: [129, 136]
+   ServiceArea#1  124:3
+
+ new customer min# 141
+141: [129, 136, 141]
+   ServiceArea#1  124:2
+
+ new customer min# 142
+142: [129, 136, 141, 142]
+   ServiceArea#1  124:1
+
+ new customer min# 143
+143: [129, 136, 141, 142, 143]
+    Customer# 124 leaves and his total wait time is 19
+
+ new customer min# 144
+144: [136, 141, 142, 143, 144]
+   ServiceArea#1  129:2
+145: [136, 141, 142, 143, 144]
+   ServiceArea#1  129:1
+
+ new customer min# 146
+146: [136, 141, 142, 143, 144, 146]
+    Customer# 129 leaves and his total wait time is 17
+147: [141, 142, 143, 144, 146]
+   ServiceArea#1  136:1
+
+ new customer min# 148
+148: [141, 142, 143, 144, 146, 148]
+    Customer# 136 leaves and his total wait time is 12
+
+ new customer min# 149
+149: [142, 143, 144, 146, 148, 149]
+   ServiceArea#1  141:6
+150: [142, 143, 144, 146, 148, 149]
+   ServiceArea#1  141:5
+
+ new customer min# 151
+151: [142, 143, 144, 146, 148, 149, 151]
+   ServiceArea#1  141:4
+
+ new customer min# 152
+152: [142, 143, 144, 146, 148, 149, 151, 152]
+   ServiceArea#1  141:3
+
+ new customer min# 153
+153: [142, 143, 144, 146, 148, 149, 151, 152, 153]
+   ServiceArea#1  141:2
+154: [142, 143, 144, 146, 148, 149, 151, 152, 153]
+   ServiceArea#1  141:1
+155: [142, 143, 144, 146, 148, 149, 151, 152, 153]
+    Customer# 141 leaves and his total wait time is 14
+156: [143, 144, 146, 148, 149, 151, 152, 153]
+   ServiceArea#1  142:5
+
+ new customer min# 157
+157: [143, 144, 146, 148, 149, 151, 152, 153, 157]
+   ServiceArea#1  142:4
+158: [143, 144, 146, 148, 149, 151, 152, 153, 157]
+   ServiceArea#1  142:3
+159: [143, 144, 146, 148, 149, 151, 152, 153, 157]
+   ServiceArea#1  142:2
+160: [143, 144, 146, 148, 149, 151, 152, 153, 157]
+   ServiceArea#1  142:1
+161: [143, 144, 146, 148, 149, 151, 152, 153, 157]
+    Customer# 142 leaves and his total wait time is 19
+162: [144, 146, 148, 149, 151, 152, 153, 157]
+   ServiceArea#1  143:6
+
+ new customer min# 163
+163: [144, 146, 148, 149, 151, 152, 153, 157, 163]
+   ServiceArea#1  143:5
+164: [144, 146, 148, 149, 151, 152, 153, 157, 163]
+   ServiceArea#1  143:4
+
+ new customer min# 165
+165: [144, 146, 148, 149, 151, 152, 153, 157, 163, 165]
+   ServiceArea#1  143:3
+166: [144, 146, 148, 149, 151, 152, 153, 157, 163, 165]
+   ServiceArea#1  143:2
+167: [144, 146, 148, 149, 151, 152, 153, 157, 163, 165]
+   ServiceArea#1  143:1
+168: [144, 146, 148, 149, 151, 152, 153, 157, 163, 165]
+    Customer# 143 leaves and his total wait time is 25
+169: [146, 148, 149, 151, 152, 153, 157, 163, 165]
+   ServiceArea#1  144:6
+
+ new customer min# 170
+170: [146, 148, 149, 151, 152, 153, 157, 163, 165, 170]
+   ServiceArea#1  144:5
+171: [146, 148, 149, 151, 152, 153, 157, 163, 165, 170]
+   ServiceArea#1  144:4
+172: [146, 148, 149, 151, 152, 153, 157, 163, 165, 170]
+   ServiceArea#1  144:3
+173: [146, 148, 149, 151, 152, 153, 157, 163, 165, 170]
+   ServiceArea#1  144:2
+
+ new customer min# 174
+174: [146, 148, 149, 151, 152, 153, 157, 163, 165, 170, 174]
+   ServiceArea#1  144:1
+175: [146, 148, 149, 151, 152, 153, 157, 163, 165, 170, 174]
+    Customer# 144 leaves and his total wait time is 31
+176: [148, 149, 151, 152, 153, 157, 163, 165, 170, 174]
+   ServiceArea#1  146:4
+177: [148, 149, 151, 152, 153, 157, 163, 165, 170, 174]
+   ServiceArea#1  146:3
+178: [148, 149, 151, 152, 153, 157, 163, 165, 170, 174]
+   ServiceArea#1  146:2
+179: [148, 149, 151, 152, 153, 157, 163, 165, 170, 174]
+   ServiceArea#1  146:1
+180: [148, 149, 151, 152, 153, 157, 163, 165, 170, 174]
+    Customer# 146 leaves and his total wait time is 34
+181: [149, 151, 152, 153, 157, 163, 165, 170, 174]
+   ServiceArea#1  148:2
+182: [149, 151, 152, 153, 157, 163, 165, 170, 174]
+   ServiceArea#1  148:1
+183: [149, 151, 152, 153, 157, 163, 165, 170, 174]
+    Customer# 148 leaves and his total wait time is 35
+184: [151, 152, 153, 157, 163, 165, 170, 174]
+   ServiceArea#1  149:4
+
+ new customer min# 185
+185: [151, 152, 153, 157, 163, 165, 170, 174, 185]
+   ServiceArea#1  149:3
+186: [151, 152, 153, 157, 163, 165, 170, 174, 185]
+   ServiceArea#1  149:2
+
+ new customer min# 187
+187: [151, 152, 153, 157, 163, 165, 170, 174, 185, 187]
+   ServiceArea#1  149:1
+188: [151, 152, 153, 157, 163, 165, 170, 174, 185, 187]
+    Customer# 149 leaves and his total wait time is 39
+189: [152, 153, 157, 163, 165, 170, 174, 185, 187]
+   ServiceArea#1  151:1
+190: [152, 153, 157, 163, 165, 170, 174, 185, 187]
+    Customer# 151 leaves and his total wait time is 39
+191: [153, 157, 163, 165, 170, 174, 185, 187]
+   ServiceArea#1  152:3
+192: [153, 157, 163, 165, 170, 174, 185, 187]
+   ServiceArea#1  152:2
+193: [153, 157, 163, 165, 170, 174, 185, 187]
+   ServiceArea#1  152:1
+194: [153, 157, 163, 165, 170, 174, 185, 187]
+    Customer# 152 leaves and his total wait time is 42
+195: [157, 163, 165, 170, 174, 185, 187]
+   ServiceArea#1  153:4
+196: [157, 163, 165, 170, 174, 185, 187]
+   ServiceArea#1  153:3
+
+ new customer min# 197
+197: [157, 163, 165, 170, 174, 185, 187, 197]
+   ServiceArea#1  153:2
+198: [157, 163, 165, 170, 174, 185, 187, 197]
+   ServiceArea#1  153:1
+199: [157, 163, 165, 170, 174, 185, 187, 197]
+    Customer# 153 leaves and his total wait time is 46
+200: [163, 165, 170, 174, 185, 187, 197]
+   ServiceArea#1  157:6
+201: [163, 165, 170, 174, 185, 187, 197]
+   ServiceArea#1  157:5
+202: [163, 165, 170, 174, 185, 187, 197]
+   ServiceArea#1  157:4
+203: [163, 165, 170, 174, 185, 187, 197]
+   ServiceArea#1  157:3
+204: [163, 165, 170, 174, 185, 187, 197]
+   ServiceArea#1  157:2
+205: [163, 165, 170, 174, 185, 187, 197]
+   ServiceArea#1  157:1
+206: [163, 165, 170, 174, 185, 187, 197]
+    Customer# 157 leaves and his total wait time is 49
+207: [165, 170, 174, 185, 187, 197]
+   ServiceArea#1  163:2
+208: [165, 170, 174, 185, 187, 197]
+   ServiceArea#1  163:1
+209: [165, 170, 174, 185, 187, 197]
+    Customer# 163 leaves and his total wait time is 46
+210: [170, 174, 185, 187, 197]
+   ServiceArea#1  165:4
+211: [170, 174, 185, 187, 197]
+   ServiceArea#1  165:3
+212: [170, 174, 185, 187, 197]
+   ServiceArea#1  165:2
+213: [170, 174, 185, 187, 197]
+   ServiceArea#1  165:1
+214: [170, 174, 185, 187, 197]
+    Customer# 165 leaves and his total wait time is 49
+215: [174, 185, 187, 197]
+   ServiceArea#1  170:2
+216: [174, 185, 187, 197]
+   ServiceArea#1  170:1
+217: [174, 185, 187, 197]
+    Customer# 170 leaves and his total wait time is 47
+218: [185, 187, 197]
+   ServiceArea#1  174:6
+219: [185, 187, 197]
+   ServiceArea#1  174:5
+220: [185, 187, 197]
+   ServiceArea#1  174:4
+221: [185, 187, 197]
+   ServiceArea#1  174:3
+222: [185, 187, 197]
+   ServiceArea#1  174:2
+
+ new customer min# 223
+223: [185, 187, 197, 223]
+   ServiceArea#1  174:1
+224: [185, 187, 197, 223]
+    Customer# 174 leaves and his total wait time is 50
+225: [187, 197, 223]
+   ServiceArea#1  185:6
+226: [187, 197, 223]
+   ServiceArea#1  185:5
+227: [187, 197, 223]
+   ServiceArea#1  185:4
+
+ new customer min# 228
+228: [187, 197, 223, 228]
+   ServiceArea#1  185:3
+229: [187, 197, 223, 228]
+   ServiceArea#1  185:2
+230: [187, 197, 223, 228]
+   ServiceArea#1  185:1
+231: [187, 197, 223, 228]
+    Customer# 185 leaves and his total wait time is 46
+232: [197, 223, 228]
+   ServiceArea#1  187:6
+233: [197, 223, 228]
+   ServiceArea#1  187:5
+
+ new customer min# 234
+234: [197, 223, 228, 234]
+   ServiceArea#1  187:4
+235: [197, 223, 228, 234]
+   ServiceArea#1  187:3
+236: [197, 223, 228, 234]
+   ServiceArea#1  187:2
+237: [197, 223, 228, 234]
+   ServiceArea#1  187:1
+238: [197, 223, 228, 234]
+    Customer# 187 leaves and his total wait time is 51
+239: [223, 228, 234]
+   ServiceArea#1  197:6
+240: [223, 228, 234]
+   ServiceArea#1  197:5
+241: [223, 228, 234]
+   ServiceArea#1  197:4
+242: [223, 228, 234]
+   ServiceArea#1  197:3
+243: [223, 228, 234]
+   ServiceArea#1  197:2
+
+ new customer min# 244
+244: [223, 228, 234, 244]
+   ServiceArea#1  197:1
+245: [223, 228, 234, 244]
+    Customer# 197 leaves and his total wait time is 48
+246: [228, 234, 244]
+   ServiceArea#1  223:1
+
+ new customer min# 247
+247: [228, 234, 244, 247]
+    Customer# 223 leaves and his total wait time is 24
+248: [234, 244, 247]
+   ServiceArea#1  228:6
+249: [234, 244, 247]
+   ServiceArea#1  228:5
+250: [234, 244, 247]
+   ServiceArea#1  228:4
+251: [234, 244, 247]
+   ServiceArea#1  228:3
+
+ new customer min# 252
+252: [234, 244, 247, 252]
+   ServiceArea#1  228:2
+253: [234, 244, 247, 252]
+   ServiceArea#1  228:1
+
+ new customer min# 254
+254: [234, 244, 247, 252, 254]
+    Customer# 228 leaves and his total wait time is 26
+255: [244, 247, 252, 254]
+   ServiceArea#1  234:4
+
+ new customer min# 256
+256: [244, 247, 252, 254, 256]
+   ServiceArea#1  234:3
+257: [244, 247, 252, 254, 256]
+   ServiceArea#1  234:2
+258: [244, 247, 252, 254, 256]
+   ServiceArea#1  234:1
+259: [244, 247, 252, 254, 256]
+    Customer# 234 leaves and his total wait time is 25
+260: [247, 252, 254, 256]
+   ServiceArea#1  244:3
+261: [247, 252, 254, 256]
+   ServiceArea#1  244:2
+262: [247, 252, 254, 256]
+   ServiceArea#1  244:1
+263: [247, 252, 254, 256]
+    Customer# 244 leaves and his total wait time is 19
+
+ new customer min# 264
+264: [252, 254, 256, 264]
+   ServiceArea#1  247:1
+265: [252, 254, 256, 264]
+    Customer# 247 leaves and his total wait time is 18
+266: [254, 256, 264]
+   ServiceArea#1  252:6
+267: [254, 256, 264]
+   ServiceArea#1  252:5
+268: [254, 256, 264]
+   ServiceArea#1  252:4
+269: [254, 256, 264]
+   ServiceArea#1  252:3
+
+ new customer min# 270
+270: [254, 256, 264, 270]
+   ServiceArea#1  252:2
+
+ new customer min# 271
+271: [254, 256, 264, 270, 271]
+   ServiceArea#1  252:1
+272: [254, 256, 264, 270, 271]
+    Customer# 252 leaves and his total wait time is 20
+273: [256, 264, 270, 271]
+   ServiceArea#1  254:6
+
+ new customer min# 274
+274: [256, 264, 270, 271, 274]
+   ServiceArea#1  254:5
+275: [256, 264, 270, 271, 274]
+   ServiceArea#1  254:4
+276: [256, 264, 270, 271, 274]
+   ServiceArea#1  254:3
+277: [256, 264, 270, 271, 274]
+   ServiceArea#1  254:2
+278: [256, 264, 270, 271, 274]
+   ServiceArea#1  254:1
+279: [256, 264, 270, 271, 274]
+    Customer# 254 leaves and his total wait time is 25
+280: [264, 270, 271, 274]
+   ServiceArea#1  256:5
+281: [264, 270, 271, 274]
+   ServiceArea#1  256:4
+
+ new customer min# 282
+282: [264, 270, 271, 274, 282]
+   ServiceArea#1  256:3
+
+ new customer min# 283
+283: [264, 270, 271, 274, 282, 283]
+   ServiceArea#1  256:2
+284: [264, 270, 271, 274, 282, 283]
+   ServiceArea#1  256:1
+285: [264, 270, 271, 274, 282, 283]
+    Customer# 256 leaves and his total wait time is 29
+
+ new customer min# 286
+286: [270, 271, 274, 282, 283, 286]
+   ServiceArea#1  264:5
+287: [270, 271, 274, 282, 283, 286]
+   ServiceArea#1  264:4
+288: [270, 271, 274, 282, 283, 286]
+   ServiceArea#1  264:3
+289: [270, 271, 274, 282, 283, 286]
+   ServiceArea#1  264:2
+
+ new customer min# 290
+290: [270, 271, 274, 282, 283, 286, 290]
+   ServiceArea#1  264:1
+
+ new customer min# 291
+291: [270, 271, 274, 282, 283, 286, 290, 291]
+    Customer# 264 leaves and his total wait time is 27
+
+ new customer min# 292
+292: [271, 274, 282, 283, 286, 290, 291, 292]
+   ServiceArea#1  270:3
+293: [271, 274, 282, 283, 286, 290, 291, 292]
+   ServiceArea#1  270:2
+294: [271, 274, 282, 283, 286, 290, 291, 292]
+   ServiceArea#1  270:1
+295: [271, 274, 282, 283, 286, 290, 291, 292]
+    Customer# 270 leaves and his total wait time is 25
+
+ new customer min# 296
+296: [274, 282, 283, 286, 290, 291, 292, 296]
+   ServiceArea#1  271:4
+297: [274, 282, 283, 286, 290, 291, 292, 296]
+   ServiceArea#1  271:3
+
+ new customer min# 298
+298: [274, 282, 283, 286, 290, 291, 292, 296, 298]
+   ServiceArea#1  271:2
+299: [274, 282, 283, 286, 290, 291, 292, 296, 298]
+   ServiceArea#1  271:1
+300: [274, 282, 283, 286, 290, 291, 292, 296, 298]
+    Customer# 271 leaves and his total wait time is 29
+301: [282, 283, 286, 290, 291, 292, 296, 298]
+   ServiceArea#1  274:5
+302: [282, 283, 286, 290, 291, 292, 296, 298]
+   ServiceArea#1  274:4
+303: [282, 283, 286, 290, 291, 292, 296, 298]
+   ServiceArea#1  274:3
+
+ new customer min# 304
+304: [282, 283, 286, 290, 291, 292, 296, 298, 304]
+   ServiceArea#1  274:2
+305: [282, 283, 286, 290, 291, 292, 296, 298, 304]
+   ServiceArea#1  274:1
+306: [282, 283, 286, 290, 291, 292, 296, 298, 304]
+    Customer# 274 leaves and his total wait time is 32
+307: [283, 286, 290, 291, 292, 296, 298, 304]
+   ServiceArea#1  282:2
+308: [283, 286, 290, 291, 292, 296, 298, 304]
+   ServiceArea#1  282:1
+
+ new customer min# 309
+309: [283, 286, 290, 291, 292, 296, 298, 304, 309]
+    Customer# 282 leaves and his total wait time is 27
+310: [286, 290, 291, 292, 296, 298, 304, 309]
+   ServiceArea#1  283:4
+311: [286, 290, 291, 292, 296, 298, 304, 309]
+   ServiceArea#1  283:3
+
+ new customer min# 312
+312: [286, 290, 291, 292, 296, 298, 304, 309, 312]
+   ServiceArea#1  283:2
+313: [286, 290, 291, 292, 296, 298, 304, 309, 312]
+   ServiceArea#1  283:1
+314: [286, 290, 291, 292, 296, 298, 304, 309, 312]
+    Customer# 283 leaves and his total wait time is 31
+315: [290, 291, 292, 296, 298, 304, 309, 312]
+   ServiceArea#1  286:1
+316: [290, 291, 292, 296, 298, 304, 309, 312]
+    Customer# 286 leaves and his total wait time is 30
+317: [291, 292, 296, 298, 304, 309, 312]
+   ServiceArea#1  290:1
+318: [291, 292, 296, 298, 304, 309, 312]
+    Customer# 290 leaves and his total wait time is 28
+319: [292, 296, 298, 304, 309, 312]
+   ServiceArea#1  291:1
+320: [292, 296, 298, 304, 309, 312]
+    Customer# 291 leaves and his total wait time is 29
+321: [296, 298, 304, 309, 312]
+   ServiceArea#1  292:5
+322: [296, 298, 304, 309, 312]
+   ServiceArea#1  292:4
+323: [296, 298, 304, 309, 312]
+   ServiceArea#1  292:3
+324: [296, 298, 304, 309, 312]
+   ServiceArea#1  292:2
+325: [296, 298, 304, 309, 312]
+   ServiceArea#1  292:1
+
+ new customer min# 326
+326: [296, 298, 304, 309, 312, 326]
+    Customer# 292 leaves and his total wait time is 34
+327: [298, 304, 309, 312, 326]
+   ServiceArea#1  296:1
+
+ new customer min# 328
+328: [298, 304, 309, 312, 326, 328]
+    Customer# 296 leaves and his total wait time is 32
+
+ new customer min# 329
+329: [304, 309, 312, 326, 328, 329]
+   ServiceArea#1  298:2
+330: [304, 309, 312, 326, 328, 329]
+   ServiceArea#1  298:1
+331: [304, 309, 312, 326, 328, 329]
+    Customer# 298 leaves and his total wait time is 33
+
+ new customer min# 332
+332: [309, 312, 326, 328, 329, 332]
+   ServiceArea#1  304:3
+333: [309, 312, 326, 328, 329, 332]
+   ServiceArea#1  304:2
+
+ new customer min# 334
+334: [309, 312, 326, 328, 329, 332, 334]
+   ServiceArea#1  304:1
+
+ new customer min# 335
+335: [309, 312, 326, 328, 329, 332, 334, 335]
+    Customer# 304 leaves and his total wait time is 31
+
+ new customer min# 336
+336: [312, 326, 328, 329, 332, 334, 335, 336]
+   ServiceArea#1  309:1
+337: [312, 326, 328, 329, 332, 334, 335, 336]
+    Customer# 309 leaves and his total wait time is 28
+338: [326, 328, 329, 332, 334, 335, 336]
+   ServiceArea#1  312:5
+339: [326, 328, 329, 332, 334, 335, 336]
+   ServiceArea#1  312:4
+340: [326, 328, 329, 332, 334, 335, 336]
+   ServiceArea#1  312:3
+341: [326, 328, 329, 332, 334, 335, 336]
+   ServiceArea#1  312:2
+342: [326, 328, 329, 332, 334, 335, 336]
+   ServiceArea#1  312:1
+
+ new customer min# 343
+343: [326, 328, 329, 332, 334, 335, 336, 343]
+    Customer# 312 leaves and his total wait time is 31
+344: [328, 329, 332, 334, 335, 336, 343]
+   ServiceArea#1  326:6
+345: [328, 329, 332, 334, 335, 336, 343]
+   ServiceArea#1  326:5
+346: [328, 329, 332, 334, 335, 336, 343]
+   ServiceArea#1  326:4
+347: [328, 329, 332, 334, 335, 336, 343]
+   ServiceArea#1  326:3
+
+ new customer min# 348
+348: [328, 329, 332, 334, 335, 336, 343, 348]
+   ServiceArea#1  326:2
+349: [328, 329, 332, 334, 335, 336, 343, 348]
+   ServiceArea#1  326:1
+350: [328, 329, 332, 334, 335, 336, 343, 348]
+    Customer# 326 leaves and his total wait time is 24
+351: [329, 332, 334, 335, 336, 343, 348]
+   ServiceArea#1  328:6
+352: [329, 332, 334, 335, 336, 343, 348]
+   ServiceArea#1  328:5
+
+ new customer min# 353
+353: [329, 332, 334, 335, 336, 343, 348, 353]
+   ServiceArea#1  328:4
+354: [329, 332, 334, 335, 336, 343, 348, 353]
+   ServiceArea#1  328:3
+355: [329, 332, 334, 335, 336, 343, 348, 353]
+   ServiceArea#1  328:2
+
+ new customer min# 356
+356: [329, 332, 334, 335, 336, 343, 348, 353, 356]
+   ServiceArea#1  328:1
+357: [329, 332, 334, 335, 336, 343, 348, 353, 356]
+    Customer# 328 leaves and his total wait time is 29
+358: [332, 334, 335, 336, 343, 348, 353, 356]
+   ServiceArea#1  329:3
+359: [332, 334, 335, 336, 343, 348, 353, 356]
+   ServiceArea#1  329:2
+360: [332, 334, 335, 336, 343, 348, 353, 356]
+   ServiceArea#1  329:1
+361: [332, 334, 335, 336, 343, 348, 353, 356]
+    Customer# 329 leaves and his total wait time is 32
+
+ new customer min# 362
+362: [334, 335, 336, 343, 348, 353, 356, 362]
+   ServiceArea#1  332:3
+
+ new customer min# 363
+363: [334, 335, 336, 343, 348, 353, 356, 362, 363]
+   ServiceArea#1  332:2
+364: [334, 335, 336, 343, 348, 353, 356, 362, 363]
+   ServiceArea#1  332:1
+365: [334, 335, 336, 343, 348, 353, 356, 362, 363]
+    Customer# 332 leaves and his total wait time is 33
+
+ new customer min# 366
+366: [335, 336, 343, 348, 353, 356, 362, 363, 366]
+   ServiceArea#1  334:4
+367: [335, 336, 343, 348, 353, 356, 362, 363, 366]
+   ServiceArea#1  334:3
+368: [335, 336, 343, 348, 353, 356, 362, 363, 366]
+   ServiceArea#1  334:2
+
+ new customer min# 369
+369: [335, 336, 343, 348, 353, 356, 362, 363, 366, 369]
+   ServiceArea#1  334:1
+370: [335, 336, 343, 348, 353, 356, 362, 363, 366, 369]
+    Customer# 334 leaves and his total wait time is 36
+371: [336, 343, 348, 353, 356, 362, 363, 366, 369]
+   ServiceArea#1  335:4
+372: [336, 343, 348, 353, 356, 362, 363, 366, 369]
+   ServiceArea#1  335:3
+373: [336, 343, 348, 353, 356, 362, 363, 366, 369]
+   ServiceArea#1  335:2
+374: [336, 343, 348, 353, 356, 362, 363, 366, 369]
+   ServiceArea#1  335:1
+375: [336, 343, 348, 353, 356, 362, 363, 366, 369]
+    Customer# 335 leaves and his total wait time is 40
+
+ new customer min# 376
+376: [343, 348, 353, 356, 362, 363, 366, 369, 376]
+   ServiceArea#1  336:4
+377: [343, 348, 353, 356, 362, 363, 366, 369, 376]
+   ServiceArea#1  336:3
+
+ new customer min# 378
+378: [343, 348, 353, 356, 362, 363, 366, 369, 376, 378]
+   ServiceArea#1  336:2
+379: [343, 348, 353, 356, 362, 363, 366, 369, 376, 378]
+   ServiceArea#1  336:1
+380: [343, 348, 353, 356, 362, 363, 366, 369, 376, 378]
+    Customer# 336 leaves and his total wait time is 44
+381: [348, 353, 356, 362, 363, 366, 369, 376, 378]
+   ServiceArea#1  343:2
+382: [348, 353, 356, 362, 363, 366, 369, 376, 378]
+   ServiceArea#1  343:1
+383: [348, 353, 356, 362, 363, 366, 369, 376, 378]
+    Customer# 343 leaves and his total wait time is 40
+384: [353, 356, 362, 363, 366, 369, 376, 378]
+   ServiceArea#1  348:3
+385: [353, 356, 362, 363, 366, 369, 376, 378]
+   ServiceArea#1  348:2
+386: [353, 356, 362, 363, 366, 369, 376, 378]
+   ServiceArea#1  348:1
+
+ new customer min# 387
+387: [353, 356, 362, 363, 366, 369, 376, 378, 387]
+    Customer# 348 leaves and his total wait time is 39
+388: [356, 362, 363, 366, 369, 376, 378, 387]
+   ServiceArea#1  353:3
+389: [356, 362, 363, 366, 369, 376, 378, 387]
+   ServiceArea#1  353:2
+390: [356, 362, 363, 366, 369, 376, 378, 387]
+   ServiceArea#1  353:1
+391: [356, 362, 363, 366, 369, 376, 378, 387]
+    Customer# 353 leaves and his total wait time is 38
+392: [362, 363, 366, 369, 376, 378, 387]
+   ServiceArea#1  356:1
+393: [362, 363, 366, 369, 376, 378, 387]
+    Customer# 356 leaves and his total wait time is 37
+394: [363, 366, 369, 376, 378, 387]
+   ServiceArea#1  362:2
+395: [363, 366, 369, 376, 378, 387]
+   ServiceArea#1  362:1
+396: [363, 366, 369, 376, 378, 387]
+    Customer# 362 leaves and his total wait time is 34
+397: [366, 369, 376, 378, 387]
+   ServiceArea#1  363:3
+398: [366, 369, 376, 378, 387]
+   ServiceArea#1  363:2
+
+ new customer min# 399
+399: [366, 369, 376, 378, 387, 399]
+   ServiceArea#1  363:1
+
+ new customer min# 400
+400: [366, 369, 376, 378, 387, 399, 400]
+    Customer# 363 leaves and his total wait time is 37
+401: [369, 376, 378, 387, 399, 400]
+   ServiceArea#1  366:4
+402: [369, 376, 378, 387, 399, 400]
+   ServiceArea#1  366:3
+
+ new customer min# 403
+403: [369, 376, 378, 387, 399, 400, 403]
+   ServiceArea#1  366:2
+404: [369, 376, 378, 387, 399, 400, 403]
+   ServiceArea#1  366:1
+
+ new customer min# 405
+405: [369, 376, 378, 387, 399, 400, 403, 405]
+    Customer# 366 leaves and his total wait time is 39
+406: [376, 378, 387, 399, 400, 403, 405]
+   ServiceArea#1  369:3
+407: [376, 378, 387, 399, 400, 403, 405]
+   ServiceArea#1  369:2
+408: [376, 378, 387, 399, 400, 403, 405]
+   ServiceArea#1  369:1
+409: [376, 378, 387, 399, 400, 403, 405]
+    Customer# 369 leaves and his total wait time is 40
+410: [378, 387, 399, 400, 403, 405]
+   ServiceArea#1  376:5
+411: [378, 387, 399, 400, 403, 405]
+   ServiceArea#1  376:4
+412: [378, 387, 399, 400, 403, 405]
+   ServiceArea#1  376:3
+413: [378, 387, 399, 400, 403, 405]
+   ServiceArea#1  376:2
+414: [378, 387, 399, 400, 403, 405]
+   ServiceArea#1  376:1
+415: [378, 387, 399, 400, 403, 405]
+    Customer# 376 leaves and his total wait time is 39
+416: [387, 399, 400, 403, 405]
+   ServiceArea#1  378:6
+417: [387, 399, 400, 403, 405]
+   ServiceArea#1  378:5
+418: [387, 399, 400, 403, 405]
+   ServiceArea#1  378:4
+
+ new customer min# 419
+419: [387, 399, 400, 403, 405, 419]
+   ServiceArea#1  378:3
+
+ new customer min# 420
+420: [387, 399, 400, 403, 405, 419, 420]
+   ServiceArea#1  378:2
+421: [387, 399, 400, 403, 405, 419, 420]
+   ServiceArea#1  378:1
+422: [387, 399, 400, 403, 405, 419, 420]
+    Customer# 378 leaves and his total wait time is 44
+423: [399, 400, 403, 405, 419, 420]
+   ServiceArea#1  387:1
+424: [399, 400, 403, 405, 419, 420]
+    Customer# 387 leaves and his total wait time is 37
+425: [400, 403, 405, 419, 420]
+   ServiceArea#1  399:4
+426: [400, 403, 405, 419, 420]
+   ServiceArea#1  399:3
+427: [400, 403, 405, 419, 420]
+   ServiceArea#1  399:2
+428: [400, 403, 405, 419, 420]
+   ServiceArea#1  399:1
+
+ new customer min# 429
+429: [400, 403, 405, 419, 420, 429]
+    Customer# 399 leaves and his total wait time is 30
+430: [403, 405, 419, 420, 429]
+   ServiceArea#1  400:3
+
+ new customer min# 431
+431: [403, 405, 419, 420, 429, 431]
+   ServiceArea#1  400:2
+432: [403, 405, 419, 420, 429, 431]
+   ServiceArea#1  400:1
+
+ new customer min# 433
+433: [403, 405, 419, 420, 429, 431, 433]
+    Customer# 400 leaves and his total wait time is 33
+434: [405, 419, 420, 429, 431, 433]
+   ServiceArea#1  403:5
+435: [405, 419, 420, 429, 431, 433]
+   ServiceArea#1  403:4
+436: [405, 419, 420, 429, 431, 433]
+   ServiceArea#1  403:3
+437: [405, 419, 420, 429, 431, 433]
+   ServiceArea#1  403:2
+
+ new customer min# 438
+438: [405, 419, 420, 429, 431, 433, 438]
+   ServiceArea#1  403:1
+439: [405, 419, 420, 429, 431, 433, 438]
+    Customer# 403 leaves and his total wait time is 36
+440: [419, 420, 429, 431, 433, 438]
+   ServiceArea#1  405:5
+441: [419, 420, 429, 431, 433, 438]
+   ServiceArea#1  405:4
+442: [419, 420, 429, 431, 433, 438]
+   ServiceArea#1  405:3
+443: [419, 420, 429, 431, 433, 438]
+   ServiceArea#1  405:2
+444: [419, 420, 429, 431, 433, 438]
+   ServiceArea#1  405:1
+
+ new customer min# 445
+445: [419, 420, 429, 431, 433, 438, 445]
+    Customer# 405 leaves and his total wait time is 40
+
+ new customer min# 446
+446: [420, 429, 431, 433, 438, 445, 446]
+   ServiceArea#1  419:3
+447: [420, 429, 431, 433, 438, 445, 446]
+   ServiceArea#1  419:2
+448: [420, 429, 431, 433, 438, 445, 446]
+   ServiceArea#1  419:1
+
+ new customer min# 449
+449: [420, 429, 431, 433, 438, 445, 446, 449]
+    Customer# 419 leaves and his total wait time is 30
+
+ new customer min# 450
+450: [429, 431, 433, 438, 445, 446, 449, 450]
+   ServiceArea#1  420:2
+451: [429, 431, 433, 438, 445, 446, 449, 450]
+   ServiceArea#1  420:1
+
+ new customer min# 452
+452: [429, 431, 433, 438, 445, 446, 449, 450, 452]
+    Customer# 420 leaves and his total wait time is 32
+
+ new customer min# 453
+453: [431, 433, 438, 445, 446, 449, 450, 452, 453]
+   ServiceArea#1  429:2
+
+ new customer min# 454
+454: [431, 433, 438, 445, 446, 449, 450, 452, 453, 454]
+   ServiceArea#1  429:1
+455: [431, 433, 438, 445, 446, 449, 450, 452, 453, 454]
+    Customer# 429 leaves and his total wait time is 26
+
+ new customer min# 456
+456: [433, 438, 445, 446, 449, 450, 452, 453, 454, 456]
+   ServiceArea#1  431:4
+
+ new customer min# 457
+457: [433, 438, 445, 446, 449, 450, 452, 453, 454, 456, 457]
+   ServiceArea#1  431:3
+458: [433, 438, 445, 446, 449, 450, 452, 453, 454, 456, 457]
+   ServiceArea#1  431:2
+459: [433, 438, 445, 446, 449, 450, 452, 453, 454, 456, 457]
+   ServiceArea#1  431:1
+460: [433, 438, 445, 446, 449, 450, 452, 453, 454, 456, 457]
+    Customer# 431 leaves and his total wait time is 29
+461: [438, 445, 446, 449, 450, 452, 453, 454, 456, 457]
+   ServiceArea#1  433:2
+462: [438, 445, 446, 449, 450, 452, 453, 454, 456, 457]
+   ServiceArea#1  433:1
+
+ new customer min# 463
+463: [438, 445, 446, 449, 450, 452, 453, 454, 456, 457, 463]
+    Customer# 433 leaves and his total wait time is 30
+
+ new customer min# 464
+464: [445, 446, 449, 450, 452, 453, 454, 456, 457, 463, 464]
+   ServiceArea#1  438:5
+465: [445, 446, 449, 450, 452, 453, 454, 456, 457, 463, 464]
+   ServiceArea#1  438:4
+466: [445, 446, 449, 450, 452, 453, 454, 456, 457, 463, 464]
+   ServiceArea#1  438:3
+
+ new customer min# 467
+467: [445, 446, 449, 450, 452, 453, 454, 456, 457, 463, 464, 467]
+   ServiceArea#1  438:2
+468: [445, 446, 449, 450, 452, 453, 454, 456, 457, 463, 464, 467]
+   ServiceArea#1  438:1
+
+ new customer min# 469
+469: [445, 446, 449, 450, 452, 453, 454, 456, 457, 463, 464, 467, 469]
+    Customer# 438 leaves and his total wait time is 31
+
+ new customer min# 470
+470: [446, 449, 450, 452, 453, 454, 456, 457, 463, 464, 467, 469, 470]
+   ServiceArea#1  445:5
+471: [446, 449, 450, 452, 453, 454, 456, 457, 463, 464, 467, 469, 470]
+   ServiceArea#1  445:4
+
+ new customer min# 472
+472: [446, 449, 450, 452, 453, 454, 456, 457, 463, 464, 467, 469, 470, 472]
+   ServiceArea#1  445:3
+473: [446, 449, 450, 452, 453, 454, 456, 457, 463, 464, 467, 469, 470, 472]
+   ServiceArea#1  445:2
+474: [446, 449, 450, 452, 453, 454, 456, 457, 463, 464, 467, 469, 470, 472]
+   ServiceArea#1  445:1
+475: [446, 449, 450, 452, 453, 454, 456, 457, 463, 464, 467, 469, 470, 472]
+    Customer# 445 leaves and his total wait time is 30
+
+ new customer min# 476
+476: [449, 450, 452, 453, 454, 456, 457, 463, 464, 467, 469, 470, 472, 476]
+   ServiceArea#1  446:6
+
+ new customer min# 477
+477: [449, 450, 452, 453, 454, 456, 457, 463, 464, 467, 469, 470, 472, 476, 477]
+   ServiceArea#1  446:5
+478: [449, 450, 452, 453, 454, 456, 457, 463, 464, 467, 469, 470, 472, 476, 477]
+   ServiceArea#1  446:4
+479: [449, 450, 452, 453, 454, 456, 457, 463, 464, 467, 469, 470, 472, 476, 477]
+   ServiceArea#1  446:3
+480: [449, 450, 452, 453, 454, 456, 457, 463, 464, 467, 469, 470, 472, 476, 477]
+   ServiceArea#1  446:2
+481: [449, 450, 452, 453, 454, 456, 457, 463, 464, 467, 469, 470, 472, 476, 477]
+   ServiceArea#1  446:1
+482: [449, 450, 452, 453, 454, 456, 457, 463, 464, 467, 469, 470, 472, 476, 477]
+    Customer# 446 leaves and his total wait time is 36
+
+ new customer min# 483
+483: [450, 452, 453, 454, 456, 457, 463, 464, 467, 469, 470, 472, 476, 477, 483]
+   ServiceArea#1  449:1
+484: [450, 452, 453, 454, 456, 457, 463, 464, 467, 469, 470, 472, 476, 477, 483]
+    Customer# 449 leaves and his total wait time is 35
+485: [452, 453, 454, 456, 457, 463, 464, 467, 469, 470, 472, 476, 477, 483]
+   ServiceArea#1  450:2
+
+ new customer min# 486
+486: [452, 453, 454, 456, 457, 463, 464, 467, 469, 470, 472, 476, 477, 483, 486]
+   ServiceArea#1  450:1
+487: [452, 453, 454, 456, 457, 463, 464, 467, 469, 470, 472, 476, 477, 483, 486]
+    Customer# 450 leaves and his total wait time is 37
+
+ new customer min# 488
+488: [453, 454, 456, 457, 463, 464, 467, 469, 470, 472, 476, 477, 483, 486, 488]
+   ServiceArea#1  452:2
+
+ new customer min# 489
+489: [453, 454, 456, 457, 463, 464, 467, 469, 470, 472, 476, 477, 483, 486, 488, 489]
+   ServiceArea#1  452:1
+490: [453, 454, 456, 457, 463, 464, 467, 469, 470, 472, 476, 477, 483, 486, 488, 489]
+    Customer# 452 leaves and his total wait time is 38
+491: [454, 456, 457, 463, 464, 467, 469, 470, 472, 476, 477, 483, 486, 488, 489]
+   ServiceArea#1  453:5
+492: [454, 456, 457, 463, 464, 467, 469, 470, 472, 476, 477, 483, 486, 488, 489]
+   ServiceArea#1  453:4
+493: [454, 456, 457, 463, 464, 467, 469, 470, 472, 476, 477, 483, 486, 488, 489]
+   ServiceArea#1  453:3
+494: [454, 456, 457, 463, 464, 467, 469, 470, 472, 476, 477, 483, 486, 488, 489]
+   ServiceArea#1  453:2
+495: [454, 456, 457, 463, 464, 467, 469, 470, 472, 476, 477, 483, 486, 488, 489]
+   ServiceArea#1  453:1
+496: [454, 456, 457, 463, 464, 467, 469, 470, 472, 476, 477, 483, 486, 488, 489]
+    Customer# 453 leaves and his total wait time is 43
+497: [456, 457, 463, 464, 467, 469, 470, 472, 476, 477, 483, 486, 488, 489]
+   ServiceArea#1  454:6
+498: [456, 457, 463, 464, 467, 469, 470, 472, 476, 477, 483, 486, 488, 489]
+   ServiceArea#1  454:5
+
+ new customer min# 499
+499: [456, 457, 463, 464, 467, 469, 470, 472, 476, 477, 483, 486, 488, 489, 499]
+   ServiceArea#1  454:4
+500: [456, 457, 463, 464, 467, 469, 470, 472, 476, 477, 483, 486, 488, 489, 499]
+   ServiceArea#1  454:3
+501: [456, 457, 463, 464, 467, 469, 470, 472, 476, 477, 483, 486, 488, 489, 499]
+   ServiceArea#1  454:2
+502: [456, 457, 463, 464, 467, 469, 470, 472, 476, 477, 483, 486, 488, 489, 499]
+   ServiceArea#1  454:1
+503: [456, 457, 463, 464, 467, 469, 470, 472, 476, 477, 483, 486, 488, 489, 499]
+    Customer# 454 leaves and his total wait time is 49
+504: [457, 463, 464, 467, 469, 470, 472, 476, 477, 483, 486, 488, 489, 499]
+   ServiceArea#1  456:2
+505: [457, 463, 464, 467, 469, 470, 472, 476, 477, 483, 486, 488, 489, 499]
+   ServiceArea#1  456:1
+506: [457, 463, 464, 467, 469, 470, 472, 476, 477, 483, 486, 488, 489, 499]
+    Customer# 456 leaves and his total wait time is 50
+507: [463, 464, 467, 469, 470, 472, 476, 477, 483, 486, 488, 489, 499]
+   ServiceArea#1  457:6
+508: [463, 464, 467, 469, 470, 472, 476, 477, 483, 486, 488, 489, 499]
+   ServiceArea#1  457:5
+509: [463, 464, 467, 469, 470, 472, 476, 477, 483, 486, 488, 489, 499]
+   ServiceArea#1  457:4
+
+ new customer min# 510
+510: [463, 464, 467, 469, 470, 472, 476, 477, 483, 486, 488, 489, 499, 510]
+   ServiceArea#1  457:3
+511: [463, 464, 467, 469, 470, 472, 476, 477, 483, 486, 488, 489, 499, 510]
+   ServiceArea#1  457:2
+512: [463, 464, 467, 469, 470, 472, 476, 477, 483, 486, 488, 489, 499, 510]
+   ServiceArea#1  457:1
+513: [463, 464, 467, 469, 470, 472, 476, 477, 483, 486, 488, 489, 499, 510]
+    Customer# 457 leaves and his total wait time is 56
+
+ new customer min# 514
+514: [464, 467, 469, 470, 472, 476, 477, 483, 486, 488, 489, 499, 510, 514]
+   ServiceArea#1  463:3
+515: [464, 467, 469, 470, 472, 476, 477, 483, 486, 488, 489, 499, 510, 514]
+   ServiceArea#1  463:2
+516: [464, 467, 469, 470, 472, 476, 477, 483, 486, 488, 489, 499, 510, 514]
+   ServiceArea#1  463:1
+517: [464, 467, 469, 470, 472, 476, 477, 483, 486, 488, 489, 499, 510, 514]
+    Customer# 463 leaves and his total wait time is 54
+518: [467, 469, 470, 472, 476, 477, 483, 486, 488, 489, 499, 510, 514]
+   ServiceArea#1  464:4
+519: [467, 469, 470, 472, 476, 477, 483, 486, 488, 489, 499, 510, 514]
+   ServiceArea#1  464:3
+
+ new customer min# 520
+520: [467, 469, 470, 472, 476, 477, 483, 486, 488, 489, 499, 510, 514, 520]
+   ServiceArea#1  464:2
+521: [467, 469, 470, 472, 476, 477, 483, 486, 488, 489, 499, 510, 514, 520]
+   ServiceArea#1  464:1
+
+ new customer min# 522
+522: [467, 469, 470, 472, 476, 477, 483, 486, 488, 489, 499, 510, 514, 520, 522]
+    Customer# 464 leaves and his total wait time is 58
+523: [469, 470, 472, 476, 477, 483, 486, 488, 489, 499, 510, 514, 520, 522]
+   ServiceArea#1  467:5
+
+ new customer min# 524
+524: [469, 470, 472, 476, 477, 483, 486, 488, 489, 499, 510, 514, 520, 522, 524]
+   ServiceArea#1  467:4
+
+ new customer min# 525
+525: [469, 470, 472, 476, 477, 483, 486, 488, 489, 499, 510, 514, 520, 522, 524, 525]
+   ServiceArea#1  467:3
+526: [469, 470, 472, 476, 477, 483, 486, 488, 489, 499, 510, 514, 520, 522, 524, 525]
+   ServiceArea#1  467:2
+527: [469, 470, 472, 476, 477, 483, 486, 488, 489, 499, 510, 514, 520, 522, 524, 525]
+   ServiceArea#1  467:1
+528: [469, 470, 472, 476, 477, 483, 486, 488, 489, 499, 510, 514, 520, 522, 524, 525]
+    Customer# 467 leaves and his total wait time is 61
+529: [470, 472, 476, 477, 483, 486, 488, 489, 499, 510, 514, 520, 522, 524, 525]
+   ServiceArea#1  469:3
+530: [470, 472, 476, 477, 483, 486, 488, 489, 499, 510, 514, 520, 522, 524, 525]
+   ServiceArea#1  469:2
+531: [470, 472, 476, 477, 483, 486, 488, 489, 499, 510, 514, 520, 522, 524, 525]
+   ServiceArea#1  469:1
+532: [470, 472, 476, 477, 483, 486, 488, 489, 499, 510, 514, 520, 522, 524, 525]
+    Customer# 469 leaves and his total wait time is 63
+533: [472, 476, 477, 483, 486, 488, 489, 499, 510, 514, 520, 522, 524, 525]
+   ServiceArea#1  470:6
+534: [472, 476, 477, 483, 486, 488, 489, 499, 510, 514, 520, 522, 524, 525]
+   ServiceArea#1  470:5
+535: [472, 476, 477, 483, 486, 488, 489, 499, 510, 514, 520, 522, 524, 525]
+   ServiceArea#1  470:4
+536: [472, 476, 477, 483, 486, 488, 489, 499, 510, 514, 520, 522, 524, 525]
+   ServiceArea#1  470:3
+537: [472, 476, 477, 483, 486, 488, 489, 499, 510, 514, 520, 522, 524, 525]
+   ServiceArea#1  470:2
+538: [472, 476, 477, 483, 486, 488, 489, 499, 510, 514, 520, 522, 524, 525]
+   ServiceArea#1  470:1
+539: [472, 476, 477, 483, 486, 488, 489, 499, 510, 514, 520, 522, 524, 525]
+    Customer# 470 leaves and his total wait time is 69
+
+ new customer min# 540
+540: [476, 477, 483, 486, 488, 489, 499, 510, 514, 520, 522, 524, 525, 540]
+   ServiceArea#1  472:2
+541: [476, 477, 483, 486, 488, 489, 499, 510, 514, 520, 522, 524, 525, 540]
+   ServiceArea#1  472:1
+542: [476, 477, 483, 486, 488, 489, 499, 510, 514, 520, 522, 524, 525, 540]
+    Customer# 472 leaves and his total wait time is 70
+543: [477, 483, 486, 488, 489, 499, 510, 514, 520, 522, 524, 525, 540]
+   ServiceArea#1  476:5
+544: [477, 483, 486, 488, 489, 499, 510, 514, 520, 522, 524, 525, 540]
+   ServiceArea#1  476:4
+545: [477, 483, 486, 488, 489, 499, 510, 514, 520, 522, 524, 525, 540]
+   ServiceArea#1  476:3
+546: [477, 483, 486, 488, 489, 499, 510, 514, 520, 522, 524, 525, 540]
+   ServiceArea#1  476:2
+
+ new customer min# 547
+547: [477, 483, 486, 488, 489, 499, 510, 514, 520, 522, 524, 525, 540, 547]
+   ServiceArea#1  476:1
+548: [477, 483, 486, 488, 489, 499, 510, 514, 520, 522, 524, 525, 540, 547]
+    Customer# 476 leaves and his total wait time is 72
+549: [483, 486, 488, 489, 499, 510, 514, 520, 522, 524, 525, 540, 547]
+   ServiceArea#1  477:4
+
+ new customer min# 550
+550: [483, 486, 488, 489, 499, 510, 514, 520, 522, 524, 525, 540, 547, 550]
+   ServiceArea#1  477:3
+551: [483, 486, 488, 489, 499, 510, 514, 520, 522, 524, 525, 540, 547, 550]
+   ServiceArea#1  477:2
+552: [483, 486, 488, 489, 499, 510, 514, 520, 522, 524, 525, 540, 547, 550]
+   ServiceArea#1  477:1
+553: [483, 486, 488, 489, 499, 510, 514, 520, 522, 524, 525, 540, 547, 550]
+    Customer# 477 leaves and his total wait time is 76
+554: [486, 488, 489, 499, 510, 514, 520, 522, 524, 525, 540, 547, 550]
+   ServiceArea#1  483:5
+555: [486, 488, 489, 499, 510, 514, 520, 522, 524, 525, 540, 547, 550]
+   ServiceArea#1  483:4
+556: [486, 488, 489, 499, 510, 514, 520, 522, 524, 525, 540, 547, 550]
+   ServiceArea#1  483:3
+557: [486, 488, 489, 499, 510, 514, 520, 522, 524, 525, 540, 547, 550]
+   ServiceArea#1  483:2
+
+ new customer min# 558
+558: [486, 488, 489, 499, 510, 514, 520, 522, 524, 525, 540, 547, 550, 558]
+   ServiceArea#1  483:1
+
+ new customer min# 559
+559: [486, 488, 489, 499, 510, 514, 520, 522, 524, 525, 540, 547, 550, 558, 559]
+    Customer# 483 leaves and his total wait time is 76
+560: [488, 489, 499, 510, 514, 520, 522, 524, 525, 540, 547, 550, 558, 559]
+   ServiceArea#1  486:3
+
+ new customer min# 561
+561: [488, 489, 499, 510, 514, 520, 522, 524, 525, 540, 547, 550, 558, 559, 561]
+   ServiceArea#1  486:2
+
+ new customer min# 562
+562: [488, 489, 499, 510, 514, 520, 522, 524, 525, 540, 547, 550, 558, 559, 561, 562]
+   ServiceArea#1  486:1
+
+ new customer min# 563
+563: [488, 489, 499, 510, 514, 520, 522, 524, 525, 540, 547, 550, 558, 559, 561, 562, 563]
+    Customer# 486 leaves and his total wait time is 77
+564: [489, 499, 510, 514, 520, 522, 524, 525, 540, 547, 550, 558, 559, 561, 562, 563]
+   ServiceArea#1  488:3
+
+ new customer min# 565
+565: [489, 499, 510, 514, 520, 522, 524, 525, 540, 547, 550, 558, 559, 561, 562, 563, 565]
+   ServiceArea#1  488:2
+566: [489, 499, 510, 514, 520, 522, 524, 525, 540, 547, 550, 558, 559, 561, 562, 563, 565]
+   ServiceArea#1  488:1
+567: [489, 499, 510, 514, 520, 522, 524, 525, 540, 547, 550, 558, 559, 561, 562, 563, 565]
+    Customer# 488 leaves and his total wait time is 79
+568: [499, 510, 514, 520, 522, 524, 525, 540, 547, 550, 558, 559, 561, 562, 563, 565]
+   ServiceArea#1  489:4
+569: [499, 510, 514, 520, 522, 524, 525, 540, 547, 550, 558, 559, 561, 562, 563, 565]
+   ServiceArea#1  489:3
+570: [499, 510, 514, 520, 522, 524, 525, 540, 547, 550, 558, 559, 561, 562, 563, 565]
+   ServiceArea#1  489:2
+571: [499, 510, 514, 520, 522, 524, 525, 540, 547, 550, 558, 559, 561, 562, 563, 565]
+   ServiceArea#1  489:1
+572: [499, 510, 514, 520, 522, 524, 525, 540, 547, 550, 558, 559, 561, 562, 563, 565]
+    Customer# 489 leaves and his total wait time is 83
+573: [510, 514, 520, 522, 524, 525, 540, 547, 550, 558, 559, 561, 562, 563, 565]
+   ServiceArea#1  499:6
+574: [510, 514, 520, 522, 524, 525, 540, 547, 550, 558, 559, 561, 562, 563, 565]
+   ServiceArea#1  499:5
+575: [510, 514, 520, 522, 524, 525, 540, 547, 550, 558, 559, 561, 562, 563, 565]
+   ServiceArea#1  499:4
+576: [510, 514, 520, 522, 524, 525, 540, 547, 550, 558, 559, 561, 562, 563, 565]
+   ServiceArea#1  499:3
+
+ new customer min# 577
+577: [510, 514, 520, 522, 524, 525, 540, 547, 550, 558, 559, 561, 562, 563, 565, 577]
+   ServiceArea#1  499:2
+578: [510, 514, 520, 522, 524, 525, 540, 547, 550, 558, 559, 561, 562, 563, 565, 577]
+   ServiceArea#1  499:1
+579: [510, 514, 520, 522, 524, 525, 540, 547, 550, 558, 559, 561, 562, 563, 565, 577]
+    Customer# 499 leaves and his total wait time is 80
+580: [514, 520, 522, 524, 525, 540, 547, 550, 558, 559, 561, 562, 563, 565, 577]
+   ServiceArea#1  510:5
+581: [514, 520, 522, 524, 525, 540, 547, 550, 558, 559, 561, 562, 563, 565, 577]
+   ServiceArea#1  510:4
+
+ new customer min# 582
+582: [514, 520, 522, 524, 525, 540, 547, 550, 558, 559, 561, 562, 563, 565, 577, 582]
+   ServiceArea#1  510:3
+583: [514, 520, 522, 524, 525, 540, 547, 550, 558, 559, 561, 562, 563, 565, 577, 582]
+   ServiceArea#1  510:2
+584: [514, 520, 522, 524, 525, 540, 547, 550, 558, 559, 561, 562, 563, 565, 577, 582]
+   ServiceArea#1  510:1
+
+ new customer min# 585
+585: [514, 520, 522, 524, 525, 540, 547, 550, 558, 559, 561, 562, 563, 565, 577, 582, 585]
+    Customer# 510 leaves and his total wait time is 75
+586: [520, 522, 524, 525, 540, 547, 550, 558, 559, 561, 562, 563, 565, 577, 582, 585]
+   ServiceArea#1  514:5
+587: [520, 522, 524, 525, 540, 547, 550, 558, 559, 561, 562, 563, 565, 577, 582, 585]
+   ServiceArea#1  514:4
+588: [520, 522, 524, 525, 540, 547, 550, 558, 559, 561, 562, 563, 565, 577, 582, 585]
+   ServiceArea#1  514:3
+
+ new customer min# 589
+589: [520, 522, 524, 525, 540, 547, 550, 558, 559, 561, 562, 563, 565, 577, 582, 585, 589]
+   ServiceArea#1  514:2
+590: [520, 522, 524, 525, 540, 547, 550, 558, 559, 561, 562, 563, 565, 577, 582, 585, 589]
+   ServiceArea#1  514:1
+591: [520, 522, 524, 525, 540, 547, 550, 558, 559, 561, 562, 563, 565, 577, 582, 585, 589]
+    Customer# 514 leaves and his total wait time is 77
+592: [522, 524, 525, 540, 547, 550, 558, 559, 561, 562, 563, 565, 577, 582, 585, 589]
+   ServiceArea#1  520:2
+593: [522, 524, 525, 540, 547, 550, 558, 559, 561, 562, 563, 565, 577, 582, 585, 589]
+   ServiceArea#1  520:1
+594: [522, 524, 525, 540, 547, 550, 558, 559, 561, 562, 563, 565, 577, 582, 585, 589]
+    Customer# 520 leaves and his total wait time is 74
+
+ new customer min# 595
+595: [524, 525, 540, 547, 550, 558, 559, 561, 562, 563, 565, 577, 582, 585, 589, 595]
+   ServiceArea#1  522:3
+596: [524, 525, 540, 547, 550, 558, 559, 561, 562, 563, 565, 577, 582, 585, 589, 595]
+   ServiceArea#1  522:2
+597: [524, 525, 540, 547, 550, 558, 559, 561, 562, 563, 565, 577, 582, 585, 589, 595]
+   ServiceArea#1  522:1
+598: [524, 525, 540, 547, 550, 558, 559, 561, 562, 563, 565, 577, 582, 585, 589, 595]
+    Customer# 522 leaves and his total wait time is 76
+
+ new customer min# 599
+599: [525, 540, 547, 550, 558, 559, 561, 562, 563, 565, 577, 582, 585, 589, 595, 599]
+   ServiceArea#1  524:4
+600: [525, 540, 547, 550, 558, 559, 561, 562, 563, 565, 577, 582, 585, 589, 595, 599]
+   ServiceArea#1  524:3
+
+ new customer min# 601
+601: [525, 540, 547, 550, 558, 559, 561, 562, 563, 565, 577, 582, 585, 589, 595, 599, 601]
+   ServiceArea#1  524:2
+602: [525, 540, 547, 550, 558, 559, 561, 562, 563, 565, 577, 582, 585, 589, 595, 599, 601]
+   ServiceArea#1  524:1
+603: [525, 540, 547, 550, 558, 559, 561, 562, 563, 565, 577, 582, 585, 589, 595, 599, 601]
+    Customer# 524 leaves and his total wait time is 79
+
+ new customer min# 604
+604: [540, 547, 550, 558, 559, 561, 562, 563, 565, 577, 582, 585, 589, 595, 599, 601, 604]
+   ServiceArea#1  525:3
+605: [540, 547, 550, 558, 559, 561, 562, 563, 565, 577, 582, 585, 589, 595, 599, 601, 604]
+   ServiceArea#1  525:2
+606: [540, 547, 550, 558, 559, 561, 562, 563, 565, 577, 582, 585, 589, 595, 599, 601, 604]
+   ServiceArea#1  525:1
+607: [540, 547, 550, 558, 559, 561, 562, 563, 565, 577, 582, 585, 589, 595, 599, 601, 604]
+    Customer# 525 leaves and his total wait time is 82
+608: [547, 550, 558, 559, 561, 562, 563, 565, 577, 582, 585, 589, 595, 599, 601, 604]
+   ServiceArea#1  540:2
+609: [547, 550, 558, 559, 561, 562, 563, 565, 577, 582, 585, 589, 595, 599, 601, 604]
+   ServiceArea#1  540:1
+610: [547, 550, 558, 559, 561, 562, 563, 565, 577, 582, 585, 589, 595, 599, 601, 604]
+    Customer# 540 leaves and his total wait time is 70
+611: [550, 558, 559, 561, 562, 563, 565, 577, 582, 585, 589, 595, 599, 601, 604]
+   ServiceArea#1  547:1
+
+ new customer min# 612
+612: [550, 558, 559, 561, 562, 563, 565, 577, 582, 585, 589, 595, 599, 601, 604, 612]
+    Customer# 547 leaves and his total wait time is 65
+613: [558, 559, 561, 562, 563, 565, 577, 582, 585, 589, 595, 599, 601, 604, 612]
+   ServiceArea#1  550:5
+614: [558, 559, 561, 562, 563, 565, 577, 582, 585, 589, 595, 599, 601, 604, 612]
+   ServiceArea#1  550:4
+615: [558, 559, 561, 562, 563, 565, 577, 582, 585, 589, 595, 599, 601, 604, 612]
+   ServiceArea#1  550:3
+
+ new customer min# 616
+616: [558, 559, 561, 562, 563, 565, 577, 582, 585, 589, 595, 599, 601, 604, 612, 616]
+   ServiceArea#1  550:2
+617: [558, 559, 561, 562, 563, 565, 577, 582, 585, 589, 595, 599, 601, 604, 612, 616]
+   ServiceArea#1  550:1
+618: [558, 559, 561, 562, 563, 565, 577, 582, 585, 589, 595, 599, 601, 604, 612, 616]
+    Customer# 550 leaves and his total wait time is 68
+619: [559, 561, 562, 563, 565, 577, 582, 585, 589, 595, 599, 601, 604, 612, 616]
+   ServiceArea#1  558:4
+
+ new customer min# 620
+620: [559, 561, 562, 563, 565, 577, 582, 585, 589, 595, 599, 601, 604, 612, 616, 620]
+   ServiceArea#1  558:3
+621: [559, 561, 562, 563, 565, 577, 582, 585, 589, 595, 599, 601, 604, 612, 616, 620]
+   ServiceArea#1  558:2
+
+ new customer min# 622
+622: [559, 561, 562, 563, 565, 577, 582, 585, 589, 595, 599, 601, 604, 612, 616, 620, 622]
+   ServiceArea#1  558:1
+623: [559, 561, 562, 563, 565, 577, 582, 585, 589, 595, 599, 601, 604, 612, 616, 620, 622]
+    Customer# 558 leaves and his total wait time is 65
+624: [561, 562, 563, 565, 577, 582, 585, 589, 595, 599, 601, 604, 612, 616, 620, 622]
+   ServiceArea#1  559:3
+625: [561, 562, 563, 565, 577, 582, 585, 589, 595, 599, 601, 604, 612, 616, 620, 622]
+   ServiceArea#1  559:2
+626: [561, 562, 563, 565, 577, 582, 585, 589, 595, 599, 601, 604, 612, 616, 620, 622]
+   ServiceArea#1  559:1
+627: [561, 562, 563, 565, 577, 582, 585, 589, 595, 599, 601, 604, 612, 616, 620, 622]
+    Customer# 559 leaves and his total wait time is 68
+628: [562, 563, 565, 577, 582, 585, 589, 595, 599, 601, 604, 612, 616, 620, 622]
+   ServiceArea#1  561:1
+629: [562, 563, 565, 577, 582, 585, 589, 595, 599, 601, 604, 612, 616, 620, 622]
+    Customer# 561 leaves and his total wait time is 68
+630: [563, 565, 577, 582, 585, 589, 595, 599, 601, 604, 612, 616, 620, 622]
+   ServiceArea#1  562:5
+
+ new customer min# 631
+631: [563, 565, 577, 582, 585, 589, 595, 599, 601, 604, 612, 616, 620, 622, 631]
+   ServiceArea#1  562:4
+632: [563, 565, 577, 582, 585, 589, 595, 599, 601, 604, 612, 616, 620, 622, 631]
+   ServiceArea#1  562:3
+633: [563, 565, 577, 582, 585, 589, 595, 599, 601, 604, 612, 616, 620, 622, 631]
+   ServiceArea#1  562:2
+634: [563, 565, 577, 582, 585, 589, 595, 599, 601, 604, 612, 616, 620, 622, 631]
+   ServiceArea#1  562:1
+635: [563, 565, 577, 582, 585, 589, 595, 599, 601, 604, 612, 616, 620, 622, 631]
+    Customer# 562 leaves and his total wait time is 73
+636: [565, 577, 582, 585, 589, 595, 599, 601, 604, 612, 616, 620, 622, 631]
+   ServiceArea#1  563:1
+637: [565, 577, 582, 585, 589, 595, 599, 601, 604, 612, 616, 620, 622, 631]
+    Customer# 563 leaves and his total wait time is 74
+638: [577, 582, 585, 589, 595, 599, 601, 604, 612, 616, 620, 622, 631]
+   ServiceArea#1  565:2
+639: [577, 582, 585, 589, 595, 599, 601, 604, 612, 616, 620, 622, 631]
+   ServiceArea#1  565:1
+640: [577, 582, 585, 589, 595, 599, 601, 604, 612, 616, 620, 622, 631]
+    Customer# 565 leaves and his total wait time is 75
+641: [582, 585, 589, 595, 599, 601, 604, 612, 616, 620, 622, 631]
+   ServiceArea#1  577:5
+642: [582, 585, 589, 595, 599, 601, 604, 612, 616, 620, 622, 631]
+   ServiceArea#1  577:4
+
+ new customer min# 643
+643: [582, 585, 589, 595, 599, 601, 604, 612, 616, 620, 622, 631, 643]
+   ServiceArea#1  577:3
+644: [582, 585, 589, 595, 599, 601, 604, 612, 616, 620, 622, 631, 643]
+   ServiceArea#1  577:2
+
+ new customer min# 645
+645: [582, 585, 589, 595, 599, 601, 604, 612, 616, 620, 622, 631, 643, 645]
+   ServiceArea#1  577:1
+646: [582, 585, 589, 595, 599, 601, 604, 612, 616, 620, 622, 631, 643, 645]
+    Customer# 577 leaves and his total wait time is 69
+647: [585, 589, 595, 599, 601, 604, 612, 616, 620, 622, 631, 643, 645]
+   ServiceArea#1  582:6
+648: [585, 589, 595, 599, 601, 604, 612, 616, 620, 622, 631, 643, 645]
+   ServiceArea#1  582:5
+649: [585, 589, 595, 599, 601, 604, 612, 616, 620, 622, 631, 643, 645]
+   ServiceArea#1  582:4
+
+ new customer min# 650
+650: [585, 589, 595, 599, 601, 604, 612, 616, 620, 622, 631, 643, 645, 650]
+   ServiceArea#1  582:3
+651: [585, 589, 595, 599, 601, 604, 612, 616, 620, 622, 631, 643, 645, 650]
+   ServiceArea#1  582:2
+652: [585, 589, 595, 599, 601, 604, 612, 616, 620, 622, 631, 643, 645, 650]
+   ServiceArea#1  582:1
+653: [585, 589, 595, 599, 601, 604, 612, 616, 620, 622, 631, 643, 645, 650]
+    Customer# 582 leaves and his total wait time is 71
+654: [589, 595, 599, 601, 604, 612, 616, 620, 622, 631, 643, 645, 650]
+   ServiceArea#1  585:5
+655: [589, 595, 599, 601, 604, 612, 616, 620, 622, 631, 643, 645, 650]
+   ServiceArea#1  585:4
+656: [589, 595, 599, 601, 604, 612, 616, 620, 622, 631, 643, 645, 650]
+   ServiceArea#1  585:3
+
+ new customer min# 657
+657: [589, 595, 599, 601, 604, 612, 616, 620, 622, 631, 643, 645, 650, 657]
+   ServiceArea#1  585:2
+658: [589, 595, 599, 601, 604, 612, 616, 620, 622, 631, 643, 645, 650, 657]
+   ServiceArea#1  585:1
+659: [589, 595, 599, 601, 604, 612, 616, 620, 622, 631, 643, 645, 650, 657]
+    Customer# 585 leaves and his total wait time is 74
+
+ new customer min# 660
+660: [595, 599, 601, 604, 612, 616, 620, 622, 631, 643, 645, 650, 657, 660]
+   ServiceArea#1  589:5
+
+ new customer min# 661
+661: [595, 599, 601, 604, 612, 616, 620, 622, 631, 643, 645, 650, 657, 660, 661]
+   ServiceArea#1  589:4
+662: [595, 599, 601, 604, 612, 616, 620, 622, 631, 643, 645, 650, 657, 660, 661]
+   ServiceArea#1  589:3
+663: [595, 599, 601, 604, 612, 616, 620, 622, 631, 643, 645, 650, 657, 660, 661]
+   ServiceArea#1  589:2
+664: [595, 599, 601, 604, 612, 616, 620, 622, 631, 643, 645, 650, 657, 660, 661]
+   ServiceArea#1  589:1
+665: [595, 599, 601, 604, 612, 616, 620, 622, 631, 643, 645, 650, 657, 660, 661]
+    Customer# 589 leaves and his total wait time is 76
+666: [599, 601, 604, 612, 616, 620, 622, 631, 643, 645, 650, 657, 660, 661]
+   ServiceArea#1  595:4
+667: [599, 601, 604, 612, 616, 620, 622, 631, 643, 645, 650, 657, 660, 661]
+   ServiceArea#1  595:3
+668: [599, 601, 604, 612, 616, 620, 622, 631, 643, 645, 650, 657, 660, 661]
+   ServiceArea#1  595:2
+
+ new customer min# 669
+669: [599, 601, 604, 612, 616, 620, 622, 631, 643, 645, 650, 657, 660, 661, 669]
+   ServiceArea#1  595:1
+670: [599, 601, 604, 612, 616, 620, 622, 631, 643, 645, 650, 657, 660, 661, 669]
+    Customer# 595 leaves and his total wait time is 75
+671: [601, 604, 612, 616, 620, 622, 631, 643, 645, 650, 657, 660, 661, 669]
+   ServiceArea#1  599:4
+672: [601, 604, 612, 616, 620, 622, 631, 643, 645, 650, 657, 660, 661, 669]
+   ServiceArea#1  599:3
+673: [601, 604, 612, 616, 620, 622, 631, 643, 645, 650, 657, 660, 661, 669]
+   ServiceArea#1  599:2
+
+ new customer min# 674
+674: [601, 604, 612, 616, 620, 622, 631, 643, 645, 650, 657, 660, 661, 669, 674]
+   ServiceArea#1  599:1
+675: [601, 604, 612, 616, 620, 622, 631, 643, 645, 650, 657, 660, 661, 669, 674]
+    Customer# 599 leaves and his total wait time is 76
+676: [604, 612, 616, 620, 622, 631, 643, 645, 650, 657, 660, 661, 669, 674]
+   ServiceArea#1  601:3
+
+ new customer min# 677
+677: [604, 612, 616, 620, 622, 631, 643, 645, 650, 657, 660, 661, 669, 674, 677]
+   ServiceArea#1  601:2
+678: [604, 612, 616, 620, 622, 631, 643, 645, 650, 657, 660, 661, 669, 674, 677]
+   ServiceArea#1  601:1
+
+ new customer min# 679
+679: [604, 612, 616, 620, 622, 631, 643, 645, 650, 657, 660, 661, 669, 674, 677, 679]
+    Customer# 601 leaves and his total wait time is 78
+
+ new customer min# 680
+680: [612, 616, 620, 622, 631, 643, 645, 650, 657, 660, 661, 669, 674, 677, 679, 680]
+   ServiceArea#1  604:2
+681: [612, 616, 620, 622, 631, 643, 645, 650, 657, 660, 661, 669, 674, 677, 679, 680]
+   ServiceArea#1  604:1
+682: [612, 616, 620, 622, 631, 643, 645, 650, 657, 660, 661, 669, 674, 677, 679, 680]
+    Customer# 604 leaves and his total wait time is 78
+683: [616, 620, 622, 631, 643, 645, 650, 657, 660, 661, 669, 674, 677, 679, 680]
+   ServiceArea#1  612:3
+
+ new customer min# 684
+684: [616, 620, 622, 631, 643, 645, 650, 657, 660, 661, 669, 674, 677, 679, 680, 684]
+   ServiceArea#1  612:2
+685: [616, 620, 622, 631, 643, 645, 650, 657, 660, 661, 669, 674, 677, 679, 680, 684]
+   ServiceArea#1  612:1
+686: [616, 620, 622, 631, 643, 645, 650, 657, 660, 661, 669, 674, 677, 679, 680, 684]
+    Customer# 612 leaves and his total wait time is 74
+
+ new customer min# 687
+687: [620, 622, 631, 643, 645, 650, 657, 660, 661, 669, 674, 677, 679, 680, 684, 687]
+   ServiceArea#1  616:3
+688: [620, 622, 631, 643, 645, 650, 657, 660, 661, 669, 674, 677, 679, 680, 684, 687]
+   ServiceArea#1  616:2
+689: [620, 622, 631, 643, 645, 650, 657, 660, 661, 669, 674, 677, 679, 680, 684, 687]
+   ServiceArea#1  616:1
+690: [620, 622, 631, 643, 645, 650, 657, 660, 661, 669, 674, 677, 679, 680, 684, 687]
+    Customer# 616 leaves and his total wait time is 74
+
+ new customer min# 691
+691: [622, 631, 643, 645, 650, 657, 660, 661, 669, 674, 677, 679, 680, 684, 687, 691]
+   ServiceArea#1  620:5
+692: [622, 631, 643, 645, 650, 657, 660, 661, 669, 674, 677, 679, 680, 684, 687, 691]
+   ServiceArea#1  620:4
+693: [622, 631, 643, 645, 650, 657, 660, 661, 669, 674, 677, 679, 680, 684, 687, 691]
+   ServiceArea#1  620:3
+694: [622, 631, 643, 645, 650, 657, 660, 661, 669, 674, 677, 679, 680, 684, 687, 691]
+   ServiceArea#1  620:2
+695: [622, 631, 643, 645, 650, 657, 660, 661, 669, 674, 677, 679, 680, 684, 687, 691]
+   ServiceArea#1  620:1
+
+ new customer min# 696
+696: [622, 631, 643, 645, 650, 657, 660, 661, 669, 674, 677, 679, 680, 684, 687, 691, 696]
+    Customer# 620 leaves and his total wait time is 76
+697: [631, 643, 645, 650, 657, 660, 661, 669, 674, 677, 679, 680, 684, 687, 691, 696]
+   ServiceArea#1  622:6
+698: [631, 643, 645, 650, 657, 660, 661, 669, 674, 677, 679, 680, 684, 687, 691, 696]
+   ServiceArea#1  622:5
+699: [631, 643, 645, 650, 657, 660, 661, 669, 674, 677, 679, 680, 684, 687, 691, 696]
+   ServiceArea#1  622:4
+700: [631, 643, 645, 650, 657, 660, 661, 669, 674, 677, 679, 680, 684, 687, 691, 696]
+   ServiceArea#1  622:3
+
+ new customer min# 701
+701: [631, 643, 645, 650, 657, 660, 661, 669, 674, 677, 679, 680, 684, 687, 691, 696, 701]
+   ServiceArea#1  622:2
+702: [631, 643, 645, 650, 657, 660, 661, 669, 674, 677, 679, 680, 684, 687, 691, 696, 701]
+   ServiceArea#1  622:1
+703: [631, 643, 645, 650, 657, 660, 661, 669, 674, 677, 679, 680, 684, 687, 691, 696, 701]
+    Customer# 622 leaves and his total wait time is 81
+704: [643, 645, 650, 657, 660, 661, 669, 674, 677, 679, 680, 684, 687, 691, 696, 701]
+   ServiceArea#1  631:1
+705: [643, 645, 650, 657, 660, 661, 669, 674, 677, 679, 680, 684, 687, 691, 696, 701]
+    Customer# 631 leaves and his total wait time is 74
+706: [645, 650, 657, 660, 661, 669, 674, 677, 679, 680, 684, 687, 691, 696, 701]
+   ServiceArea#1  643:5
+707: [645, 650, 657, 660, 661, 669, 674, 677, 679, 680, 684, 687, 691, 696, 701]
+   ServiceArea#1  643:4
+708: [645, 650, 657, 660, 661, 669, 674, 677, 679, 680, 684, 687, 691, 696, 701]
+   ServiceArea#1  643:3
+
+ new customer min# 709
+709: [645, 650, 657, 660, 661, 669, 674, 677, 679, 680, 684, 687, 691, 696, 701, 709]
+   ServiceArea#1  643:2
+710: [645, 650, 657, 660, 661, 669, 674, 677, 679, 680, 684, 687, 691, 696, 701, 709]
+   ServiceArea#1  643:1
+711: [645, 650, 657, 660, 661, 669, 674, 677, 679, 680, 684, 687, 691, 696, 701, 709]
+    Customer# 643 leaves and his total wait time is 68
+712: [650, 657, 660, 661, 669, 674, 677, 679, 680, 684, 687, 691, 696, 701, 709]
+   ServiceArea#1  645:5
+713: [650, 657, 660, 661, 669, 674, 677, 679, 680, 684, 687, 691, 696, 701, 709]
+   ServiceArea#1  645:4
+714: [650, 657, 660, 661, 669, 674, 677, 679, 680, 684, 687, 691, 696, 701, 709]
+   ServiceArea#1  645:3
+715: [650, 657, 660, 661, 669, 674, 677, 679, 680, 684, 687, 691, 696, 701, 709]
+   ServiceArea#1  645:2
+716: [650, 657, 660, 661, 669, 674, 677, 679, 680, 684, 687, 691, 696, 701, 709]
+   ServiceArea#1  645:1
+717: [650, 657, 660, 661, 669, 674, 677, 679, 680, 684, 687, 691, 696, 701, 709]
+    Customer# 645 leaves and his total wait time is 72
+718: [657, 660, 661, 669, 674, 677, 679, 680, 684, 687, 691, 696, 701, 709]
+   ServiceArea#1  650:2
+719: [657, 660, 661, 669, 674, 677, 679, 680, 684, 687, 691, 696, 701, 709]
+   ServiceArea#1  650:1
+720: [657, 660, 661, 669, 674, 677, 679, 680, 684, 687, 691, 696, 701, 709]
+    Customer# 650 leaves and his total wait time is 70
+721: [660, 661, 669, 674, 677, 679, 680, 684, 687, 691, 696, 701, 709]
+   ServiceArea#1  657:6
+
+ new customer min# 722
+722: [660, 661, 669, 674, 677, 679, 680, 684, 687, 691, 696, 701, 709, 722]
+   ServiceArea#1  657:5
+723: [660, 661, 669, 674, 677, 679, 680, 684, 687, 691, 696, 701, 709, 722]
+   ServiceArea#1  657:4
+724: [660, 661, 669, 674, 677, 679, 680, 684, 687, 691, 696, 701, 709, 722]
+   ServiceArea#1  657:3
+725: [660, 661, 669, 674, 677, 679, 680, 684, 687, 691, 696, 701, 709, 722]
+   ServiceArea#1  657:2
+726: [660, 661, 669, 674, 677, 679, 680, 684, 687, 691, 696, 701, 709, 722]
+   ServiceArea#1  657:1
+
+ new customer min# 727
+727: [660, 661, 669, 674, 677, 679, 680, 684, 687, 691, 696, 701, 709, 722, 727]
+    Customer# 657 leaves and his total wait time is 70
+728: [661, 669, 674, 677, 679, 680, 684, 687, 691, 696, 701, 709, 722, 727]
+   ServiceArea#1  660:1
+729: [661, 669, 674, 677, 679, 680, 684, 687, 691, 696, 701, 709, 722, 727]
+    Customer# 660 leaves and his total wait time is 69
+730: [669, 674, 677, 679, 680, 684, 687, 691, 696, 701, 709, 722, 727]
+   ServiceArea#1  661:2
+731: [669, 674, 677, 679, 680, 684, 687, 691, 696, 701, 709, 722, 727]
+   ServiceArea#1  661:1
+
+ new customer min# 732
+732: [669, 674, 677, 679, 680, 684, 687, 691, 696, 701, 709, 722, 727, 732]
+    Customer# 661 leaves and his total wait time is 71
+733: [674, 677, 679, 680, 684, 687, 691, 696, 701, 709, 722, 727, 732]
+   ServiceArea#1  669:4
+734: [674, 677, 679, 680, 684, 687, 691, 696, 701, 709, 722, 727, 732]
+   ServiceArea#1  669:3
+
+ new customer min# 735
+735: [674, 677, 679, 680, 684, 687, 691, 696, 701, 709, 722, 727, 732, 735]
+   ServiceArea#1  669:2
+736: [674, 677, 679, 680, 684, 687, 691, 696, 701, 709, 722, 727, 732, 735]
+   ServiceArea#1  669:1
+737: [674, 677, 679, 680, 684, 687, 691, 696, 701, 709, 722, 727, 732, 735]
+    Customer# 669 leaves and his total wait time is 68
+738: [677, 679, 680, 684, 687, 691, 696, 701, 709, 722, 727, 732, 735]
+   ServiceArea#1  674:5
+739: [677, 679, 680, 684, 687, 691, 696, 701, 709, 722, 727, 732, 735]
+   ServiceArea#1  674:4
+740: [677, 679, 680, 684, 687, 691, 696, 701, 709, 722, 727, 732, 735]
+   ServiceArea#1  674:3
+741: [677, 679, 680, 684, 687, 691, 696, 701, 709, 722, 727, 732, 735]
+   ServiceArea#1  674:2
+742: [677, 679, 680, 684, 687, 691, 696, 701, 709, 722, 727, 732, 735]
+   ServiceArea#1  674:1
+
+ new customer min# 743
+743: [677, 679, 680, 684, 687, 691, 696, 701, 709, 722, 727, 732, 735, 743]
+    Customer# 674 leaves and his total wait time is 69
+744: [679, 680, 684, 687, 691, 696, 701, 709, 722, 727, 732, 735, 743]
+   ServiceArea#1  677:4
+745: [679, 680, 684, 687, 691, 696, 701, 709, 722, 727, 732, 735, 743]
+   ServiceArea#1  677:3
+746: [679, 680, 684, 687, 691, 696, 701, 709, 722, 727, 732, 735, 743]
+   ServiceArea#1  677:2
+747: [679, 680, 684, 687, 691, 696, 701, 709, 722, 727, 732, 735, 743]
+   ServiceArea#1  677:1
+748: [679, 680, 684, 687, 691, 696, 701, 709, 722, 727, 732, 735, 743]
+    Customer# 677 leaves and his total wait time is 71
+749: [680, 684, 687, 691, 696, 701, 709, 722, 727, 732, 735, 743]
+   ServiceArea#1  679:4
+
+ new customer min# 750
+750: [680, 684, 687, 691, 696, 701, 709, 722, 727, 732, 735, 743, 750]
+   ServiceArea#1  679:3
+751: [680, 684, 687, 691, 696, 701, 709, 722, 727, 732, 735, 743, 750]
+   ServiceArea#1  679:2
+752: [680, 684, 687, 691, 696, 701, 709, 722, 727, 732, 735, 743, 750]
+   ServiceArea#1  679:1
+753: [680, 684, 687, 691, 696, 701, 709, 722, 727, 732, 735, 743, 750]
+    Customer# 679 leaves and his total wait time is 74
+754: [684, 687, 691, 696, 701, 709, 722, 727, 732, 735, 743, 750]
+   ServiceArea#1  680:5
+755: [684, 687, 691, 696, 701, 709, 722, 727, 732, 735, 743, 750]
+   ServiceArea#1  680:4
+756: [684, 687, 691, 696, 701, 709, 722, 727, 732, 735, 743, 750]
+   ServiceArea#1  680:3
+757: [684, 687, 691, 696, 701, 709, 722, 727, 732, 735, 743, 750]
+   ServiceArea#1  680:2
+
+ new customer min# 758
+758: [684, 687, 691, 696, 701, 709, 722, 727, 732, 735, 743, 750, 758]
+   ServiceArea#1  680:1
+759: [684, 687, 691, 696, 701, 709, 722, 727, 732, 735, 743, 750, 758]
+    Customer# 680 leaves and his total wait time is 79
+760: [687, 691, 696, 701, 709, 722, 727, 732, 735, 743, 750, 758]
+   ServiceArea#1  684:6
+761: [687, 691, 696, 701, 709, 722, 727, 732, 735, 743, 750, 758]
+   ServiceArea#1  684:5
+762: [687, 691, 696, 701, 709, 722, 727, 732, 735, 743, 750, 758]
+   ServiceArea#1  684:4
+763: [687, 691, 696, 701, 709, 722, 727, 732, 735, 743, 750, 758]
+   ServiceArea#1  684:3
+764: [687, 691, 696, 701, 709, 722, 727, 732, 735, 743, 750, 758]
+   ServiceArea#1  684:2
+765: [687, 691, 696, 701, 709, 722, 727, 732, 735, 743, 750, 758]
+   ServiceArea#1  684:1
+766: [687, 691, 696, 701, 709, 722, 727, 732, 735, 743, 750, 758]
+    Customer# 684 leaves and his total wait time is 82
+
+ new customer min# 767
+767: [691, 696, 701, 709, 722, 727, 732, 735, 743, 750, 758, 767]
+   ServiceArea#1  687:3
+
+ new customer min# 768
+768: [691, 696, 701, 709, 722, 727, 732, 735, 743, 750, 758, 767, 768]
+   ServiceArea#1  687:2
+769: [691, 696, 701, 709, 722, 727, 732, 735, 743, 750, 758, 767, 768]
+   ServiceArea#1  687:1
+770: [691, 696, 701, 709, 722, 727, 732, 735, 743, 750, 758, 767, 768]
+    Customer# 687 leaves and his total wait time is 83
+771: [696, 701, 709, 722, 727, 732, 735, 743, 750, 758, 767, 768]
+   ServiceArea#1  691:5
+772: [696, 701, 709, 722, 727, 732, 735, 743, 750, 758, 767, 768]
+   ServiceArea#1  691:4
+773: [696, 701, 709, 722, 727, 732, 735, 743, 750, 758, 767, 768]
+   ServiceArea#1  691:3
+774: [696, 701, 709, 722, 727, 732, 735, 743, 750, 758, 767, 768]
+   ServiceArea#1  691:2
+
+ new customer min# 775
+775: [696, 701, 709, 722, 727, 732, 735, 743, 750, 758, 767, 768, 775]
+   ServiceArea#1  691:1
+776: [696, 701, 709, 722, 727, 732, 735, 743, 750, 758, 767, 768, 775]
+    Customer# 691 leaves and his total wait time is 85
+777: [701, 709, 722, 727, 732, 735, 743, 750, 758, 767, 768, 775]
+   ServiceArea#1  696:5
+778: [701, 709, 722, 727, 732, 735, 743, 750, 758, 767, 768, 775]
+   ServiceArea#1  696:4
+779: [701, 709, 722, 727, 732, 735, 743, 750, 758, 767, 768, 775]
+   ServiceArea#1  696:3
+780: [701, 709, 722, 727, 732, 735, 743, 750, 758, 767, 768, 775]
+   ServiceArea#1  696:2
+781: [701, 709, 722, 727, 732, 735, 743, 750, 758, 767, 768, 775]
+   ServiceArea#1  696:1
+782: [701, 709, 722, 727, 732, 735, 743, 750, 758, 767, 768, 775]
+    Customer# 696 leaves and his total wait time is 86
+783: [709, 722, 727, 732, 735, 743, 750, 758, 767, 768, 775]
+   ServiceArea#1  701:5
+784: [709, 722, 727, 732, 735, 743, 750, 758, 767, 768, 775]
+   ServiceArea#1  701:4
+785: [709, 722, 727, 732, 735, 743, 750, 758, 767, 768, 775]
+   ServiceArea#1  701:3
+
+ new customer min# 786
+786: [709, 722, 727, 732, 735, 743, 750, 758, 767, 768, 775, 786]
+   ServiceArea#1  701:2
+787: [709, 722, 727, 732, 735, 743, 750, 758, 767, 768, 775, 786]
+   ServiceArea#1  701:1
+788: [709, 722, 727, 732, 735, 743, 750, 758, 767, 768, 775, 786]
+    Customer# 701 leaves and his total wait time is 87
+
+ new customer min# 789
+789: [722, 727, 732, 735, 743, 750, 758, 767, 768, 775, 786, 789]
+   ServiceArea#1  709:5
+790: [722, 727, 732, 735, 743, 750, 758, 767, 768, 775, 786, 789]
+   ServiceArea#1  709:4
+791: [722, 727, 732, 735, 743, 750, 758, 767, 768, 775, 786, 789]
+   ServiceArea#1  709:3
+792: [722, 727, 732, 735, 743, 750, 758, 767, 768, 775, 786, 789]
+   ServiceArea#1  709:2
+793: [722, 727, 732, 735, 743, 750, 758, 767, 768, 775, 786, 789]
+   ServiceArea#1  709:1
+794: [722, 727, 732, 735, 743, 750, 758, 767, 768, 775, 786, 789]
+    Customer# 709 leaves and his total wait time is 85
+795: [727, 732, 735, 743, 750, 758, 767, 768, 775, 786, 789]
+   ServiceArea#1  722:3
+796: [727, 732, 735, 743, 750, 758, 767, 768, 775, 786, 789]
+   ServiceArea#1  722:2
+797: [727, 732, 735, 743, 750, 758, 767, 768, 775, 786, 789]
+   ServiceArea#1  722:1
+798: [727, 732, 735, 743, 750, 758, 767, 768, 775, 786, 789]
+    Customer# 722 leaves and his total wait time is 76
+799: [732, 735, 743, 750, 758, 767, 768, 775, 786, 789]
+   ServiceArea#1  727:1
+800: [732, 735, 743, 750, 758, 767, 768, 775, 786, 789]
+    Customer# 727 leaves and his total wait time is 73
+801: [735, 743, 750, 758, 767, 768, 775, 786, 789]
+   ServiceArea#1  732:6
+802: [735, 743, 750, 758, 767, 768, 775, 786, 789]
+   ServiceArea#1  732:5
+803: [735, 743, 750, 758, 767, 768, 775, 786, 789]
+   ServiceArea#1  732:4
+
+ new customer min# 804
+804: [735, 743, 750, 758, 767, 768, 775, 786, 789, 804]
+   ServiceArea#1  732:3
+805: [735, 743, 750, 758, 767, 768, 775, 786, 789, 804]
+   ServiceArea#1  732:2
+806: [735, 743, 750, 758, 767, 768, 775, 786, 789, 804]
+   ServiceArea#1  732:1
+
+ new customer min# 807
+807: [735, 743, 750, 758, 767, 768, 775, 786, 789, 804, 807]
+    Customer# 732 leaves and his total wait time is 75
+808: [743, 750, 758, 767, 768, 775, 786, 789, 804, 807]
+   ServiceArea#1  735:3
+809: [743, 750, 758, 767, 768, 775, 786, 789, 804, 807]
+   ServiceArea#1  735:2
+
+ new customer min# 810
+810: [743, 750, 758, 767, 768, 775, 786, 789, 804, 807, 810]
+   ServiceArea#1  735:1
+811: [743, 750, 758, 767, 768, 775, 786, 789, 804, 807, 810]
+    Customer# 735 leaves and his total wait time is 76
+812: [750, 758, 767, 768, 775, 786, 789, 804, 807, 810]
+   ServiceArea#1  743:2
+813: [750, 758, 767, 768, 775, 786, 789, 804, 807, 810]
+   ServiceArea#1  743:1
+
+ new customer min# 814
+814: [750, 758, 767, 768, 775, 786, 789, 804, 807, 810, 814]
+    Customer# 743 leaves and his total wait time is 71
+815: [758, 767, 768, 775, 786, 789, 804, 807, 810, 814]
+   ServiceArea#1  750:5
+
+ new customer min# 816
+816: [758, 767, 768, 775, 786, 789, 804, 807, 810, 814, 816]
+   ServiceArea#1  750:4
+817: [758, 767, 768, 775, 786, 789, 804, 807, 810, 814, 816]
+   ServiceArea#1  750:3
+
+ new customer min# 818
+818: [758, 767, 768, 775, 786, 789, 804, 807, 810, 814, 816, 818]
+   ServiceArea#1  750:2
+819: [758, 767, 768, 775, 786, 789, 804, 807, 810, 814, 816, 818]
+   ServiceArea#1  750:1
+820: [758, 767, 768, 775, 786, 789, 804, 807, 810, 814, 816, 818]
+    Customer# 750 leaves and his total wait time is 70
+821: [767, 768, 775, 786, 789, 804, 807, 810, 814, 816, 818]
+   ServiceArea#1  758:4
+822: [767, 768, 775, 786, 789, 804, 807, 810, 814, 816, 818]
+   ServiceArea#1  758:3
+823: [767, 768, 775, 786, 789, 804, 807, 810, 814, 816, 818]
+   ServiceArea#1  758:2
+824: [767, 768, 775, 786, 789, 804, 807, 810, 814, 816, 818]
+   ServiceArea#1  758:1
+
+ new customer min# 825
+825: [767, 768, 775, 786, 789, 804, 807, 810, 814, 816, 818, 825]
+    Customer# 758 leaves and his total wait time is 67
+826: [768, 775, 786, 789, 804, 807, 810, 814, 816, 818, 825]
+   ServiceArea#1  767:1
+827: [768, 775, 786, 789, 804, 807, 810, 814, 816, 818, 825]
+    Customer# 767 leaves and his total wait time is 60
+828: [775, 786, 789, 804, 807, 810, 814, 816, 818, 825]
+   ServiceArea#1  768:6
+829: [775, 786, 789, 804, 807, 810, 814, 816, 818, 825]
+   ServiceArea#1  768:5
+830: [775, 786, 789, 804, 807, 810, 814, 816, 818, 825]
+   ServiceArea#1  768:4
+831: [775, 786, 789, 804, 807, 810, 814, 816, 818, 825]
+   ServiceArea#1  768:3
+832: [775, 786, 789, 804, 807, 810, 814, 816, 818, 825]
+   ServiceArea#1  768:2
+833: [775, 786, 789, 804, 807, 810, 814, 816, 818, 825]
+   ServiceArea#1  768:1
+834: [775, 786, 789, 804, 807, 810, 814, 816, 818, 825]
+    Customer# 768 leaves and his total wait time is 66
+835: [786, 789, 804, 807, 810, 814, 816, 818, 825]
+   ServiceArea#1  775:5
+836: [786, 789, 804, 807, 810, 814, 816, 818, 825]
+   ServiceArea#1  775:4
+837: [786, 789, 804, 807, 810, 814, 816, 818, 825]
+   ServiceArea#1  775:3
+838: [786, 789, 804, 807, 810, 814, 816, 818, 825]
+   ServiceArea#1  775:2
+
+ new customer min# 839
+839: [786, 789, 804, 807, 810, 814, 816, 818, 825, 839]
+   ServiceArea#1  775:1
+840: [786, 789, 804, 807, 810, 814, 816, 818, 825, 839]
+    Customer# 775 leaves and his total wait time is 65
+841: [789, 804, 807, 810, 814, 816, 818, 825, 839]
+   ServiceArea#1  786:6
+
+ new customer min# 842
+842: [789, 804, 807, 810, 814, 816, 818, 825, 839, 842]
+   ServiceArea#1  786:5
+843: [789, 804, 807, 810, 814, 816, 818, 825, 839, 842]
+   ServiceArea#1  786:4
+844: [789, 804, 807, 810, 814, 816, 818, 825, 839, 842]
+   ServiceArea#1  786:3
+
+ new customer min# 845
+845: [789, 804, 807, 810, 814, 816, 818, 825, 839, 842, 845]
+   ServiceArea#1  786:2
+846: [789, 804, 807, 810, 814, 816, 818, 825, 839, 842, 845]
+   ServiceArea#1  786:1
+847: [789, 804, 807, 810, 814, 816, 818, 825, 839, 842, 845]
+    Customer# 786 leaves and his total wait time is 61
+848: [804, 807, 810, 814, 816, 818, 825, 839, 842, 845]
+   ServiceArea#1  789:1
+849: [804, 807, 810, 814, 816, 818, 825, 839, 842, 845]
+    Customer# 789 leaves and his total wait time is 60
+850: [807, 810, 814, 816, 818, 825, 839, 842, 845]
+   ServiceArea#1  804:6
+851: [807, 810, 814, 816, 818, 825, 839, 842, 845]
+   ServiceArea#1  804:5
+852: [807, 810, 814, 816, 818, 825, 839, 842, 845]
+   ServiceArea#1  804:4
+853: [807, 810, 814, 816, 818, 825, 839, 842, 845]
+   ServiceArea#1  804:3
+
+ new customer min# 854
+854: [807, 810, 814, 816, 818, 825, 839, 842, 845, 854]
+   ServiceArea#1  804:2
+855: [807, 810, 814, 816, 818, 825, 839, 842, 845, 854]
+   ServiceArea#1  804:1
+
+ new customer min# 856
+856: [807, 810, 814, 816, 818, 825, 839, 842, 845, 854, 856]
+    Customer# 804 leaves and his total wait time is 52
+857: [810, 814, 816, 818, 825, 839, 842, 845, 854, 856]
+   ServiceArea#1  807:1
+858: [810, 814, 816, 818, 825, 839, 842, 845, 854, 856]
+    Customer# 807 leaves and his total wait time is 51
+859: [814, 816, 818, 825, 839, 842, 845, 854, 856]
+   ServiceArea#1  810:3
+860: [814, 816, 818, 825, 839, 842, 845, 854, 856]
+   ServiceArea#1  810:2
+861: [814, 816, 818, 825, 839, 842, 845, 854, 856]
+   ServiceArea#1  810:1
+862: [814, 816, 818, 825, 839, 842, 845, 854, 856]
+    Customer# 810 leaves and his total wait time is 52
+
+ new customer min# 863
+863: [816, 818, 825, 839, 842, 845, 854, 856, 863]
+   ServiceArea#1  814:2
+864: [816, 818, 825, 839, 842, 845, 854, 856, 863]
+   ServiceArea#1  814:1
+865: [816, 818, 825, 839, 842, 845, 854, 856, 863]
+    Customer# 814 leaves and his total wait time is 51
+
+ new customer min# 866
+866: [818, 825, 839, 842, 845, 854, 856, 863, 866]
+   ServiceArea#1  816:5
+867: [818, 825, 839, 842, 845, 854, 856, 863, 866]
+   ServiceArea#1  816:4
+
+ new customer min# 868
+868: [818, 825, 839, 842, 845, 854, 856, 863, 866, 868]
+   ServiceArea#1  816:3
+869: [818, 825, 839, 842, 845, 854, 856, 863, 866, 868]
+   ServiceArea#1  816:2
+
+ new customer min# 870
+870: [818, 825, 839, 842, 845, 854, 856, 863, 866, 868, 870]
+   ServiceArea#1  816:1
+871: [818, 825, 839, 842, 845, 854, 856, 863, 866, 868, 870]
+    Customer# 816 leaves and his total wait time is 55
+872: [825, 839, 842, 845, 854, 856, 863, 866, 868, 870]
+   ServiceArea#1  818:1
+873: [825, 839, 842, 845, 854, 856, 863, 866, 868, 870]
+    Customer# 818 leaves and his total wait time is 55
+874: [839, 842, 845, 854, 856, 863, 866, 868, 870]
+   ServiceArea#1  825:6
+875: [839, 842, 845, 854, 856, 863, 866, 868, 870]
+   ServiceArea#1  825:5
+876: [839, 842, 845, 854, 856, 863, 866, 868, 870]
+   ServiceArea#1  825:4
+877: [839, 842, 845, 854, 856, 863, 866, 868, 870]
+   ServiceArea#1  825:3
+878: [839, 842, 845, 854, 856, 863, 866, 868, 870]
+   ServiceArea#1  825:2
+879: [839, 842, 845, 854, 856, 863, 866, 868, 870]
+   ServiceArea#1  825:1
+880: [839, 842, 845, 854, 856, 863, 866, 868, 870]
+    Customer# 825 leaves and his total wait time is 55
+881: [842, 845, 854, 856, 863, 866, 868, 870]
+   ServiceArea#1  839:1
+882: [842, 845, 854, 856, 863, 866, 868, 870]
+    Customer# 839 leaves and his total wait time is 43
+883: [845, 854, 856, 863, 866, 868, 870]
+   ServiceArea#1  842:5
+
+ new customer min# 884
+884: [845, 854, 856, 863, 866, 868, 870, 884]
+   ServiceArea#1  842:4
+885: [845, 854, 856, 863, 866, 868, 870, 884]
+   ServiceArea#1  842:3
+
+ new customer min# 886
+886: [845, 854, 856, 863, 866, 868, 870, 884, 886]
+   ServiceArea#1  842:2
+887: [845, 854, 856, 863, 866, 868, 870, 884, 886]
+   ServiceArea#1  842:1
+888: [845, 854, 856, 863, 866, 868, 870, 884, 886]
+    Customer# 842 leaves and his total wait time is 46
+889: [854, 856, 863, 866, 868, 870, 884, 886]
+   ServiceArea#1  845:6
+890: [854, 856, 863, 866, 868, 870, 884, 886]
+   ServiceArea#1  845:5
+891: [854, 856, 863, 866, 868, 870, 884, 886]
+   ServiceArea#1  845:4
+
+ new customer min# 892
+892: [854, 856, 863, 866, 868, 870, 884, 886, 892]
+   ServiceArea#1  845:3
+893: [854, 856, 863, 866, 868, 870, 884, 886, 892]
+   ServiceArea#1  845:2
+
+ new customer min# 894
+894: [854, 856, 863, 866, 868, 870, 884, 886, 892, 894]
+   ServiceArea#1  845:1
+895: [854, 856, 863, 866, 868, 870, 884, 886, 892, 894]
+    Customer# 845 leaves and his total wait time is 50
+896: [856, 863, 866, 868, 870, 884, 886, 892, 894]
+   ServiceArea#1  854:5
+
+ new customer min# 897
+897: [856, 863, 866, 868, 870, 884, 886, 892, 894, 897]
+   ServiceArea#1  854:4
+898: [856, 863, 866, 868, 870, 884, 886, 892, 894, 897]
+   ServiceArea#1  854:3
+899: [856, 863, 866, 868, 870, 884, 886, 892, 894, 897]
+   ServiceArea#1  854:2
+900: [856, 863, 866, 868, 870, 884, 886, 892, 894, 897]
+   ServiceArea#1  854:1
+901: [856, 863, 866, 868, 870, 884, 886, 892, 894, 897]
+    Customer# 854 leaves and his total wait time is 47
+902: [863, 866, 868, 870, 884, 886, 892, 894, 897]
+   ServiceArea#1  856:3
+903: [863, 866, 868, 870, 884, 886, 892, 894, 897]
+   ServiceArea#1  856:2
+904: [863, 866, 868, 870, 884, 886, 892, 894, 897]
+   ServiceArea#1  856:1
+905: [863, 866, 868, 870, 884, 886, 892, 894, 897]
+    Customer# 856 leaves and his total wait time is 49
+906: [866, 868, 870, 884, 886, 892, 894, 897]
+   ServiceArea#1  863:4
+907: [866, 868, 870, 884, 886, 892, 894, 897]
+   ServiceArea#1  863:3
+908: [866, 868, 870, 884, 886, 892, 894, 897]
+   ServiceArea#1  863:2
+909: [866, 868, 870, 884, 886, 892, 894, 897]
+   ServiceArea#1  863:1
+910: [866, 868, 870, 884, 886, 892, 894, 897]
+    Customer# 863 leaves and his total wait time is 47
+
+ new customer min# 911
+911: [868, 870, 884, 886, 892, 894, 897, 911]
+   ServiceArea#1  866:6
+912: [868, 870, 884, 886, 892, 894, 897, 911]
+   ServiceArea#1  866:5
+913: [868, 870, 884, 886, 892, 894, 897, 911]
+   ServiceArea#1  866:4
+914: [868, 870, 884, 886, 892, 894, 897, 911]
+   ServiceArea#1  866:3
+915: [868, 870, 884, 886, 892, 894, 897, 911]
+   ServiceArea#1  866:2
+916: [868, 870, 884, 886, 892, 894, 897, 911]
+   ServiceArea#1  866:1
+917: [868, 870, 884, 886, 892, 894, 897, 911]
+    Customer# 866 leaves and his total wait time is 51
+
+ new customer min# 918
+918: [870, 884, 886, 892, 894, 897, 911, 918]
+   ServiceArea#1  868:3
+
+ new customer min# 919
+919: [870, 884, 886, 892, 894, 897, 911, 918, 919]
+   ServiceArea#1  868:2
+
+ new customer min# 920
+920: [870, 884, 886, 892, 894, 897, 911, 918, 919, 920]
+   ServiceArea#1  868:1
+
+ new customer min# 921
+921: [870, 884, 886, 892, 894, 897, 911, 918, 919, 920, 921]
+    Customer# 868 leaves and his total wait time is 53
+922: [884, 886, 892, 894, 897, 911, 918, 919, 920, 921]
+   ServiceArea#1  870:4
+923: [884, 886, 892, 894, 897, 911, 918, 919, 920, 921]
+   ServiceArea#1  870:3
+
+ new customer min# 924
+924: [884, 886, 892, 894, 897, 911, 918, 919, 920, 921, 924]
+   ServiceArea#1  870:2
+925: [884, 886, 892, 894, 897, 911, 918, 919, 920, 921, 924]
+   ServiceArea#1  870:1
+926: [884, 886, 892, 894, 897, 911, 918, 919, 920, 921, 924]
+    Customer# 870 leaves and his total wait time is 56
+927: [886, 892, 894, 897, 911, 918, 919, 920, 921, 924]
+   ServiceArea#1  884:4
+928: [886, 892, 894, 897, 911, 918, 919, 920, 921, 924]
+   ServiceArea#1  884:3
+929: [886, 892, 894, 897, 911, 918, 919, 920, 921, 924]
+   ServiceArea#1  884:2
+930: [886, 892, 894, 897, 911, 918, 919, 920, 921, 924]
+   ServiceArea#1  884:1
+931: [886, 892, 894, 897, 911, 918, 919, 920, 921, 924]
+    Customer# 884 leaves and his total wait time is 47
+932: [892, 894, 897, 911, 918, 919, 920, 921, 924]
+   ServiceArea#1  886:5
+933: [892, 894, 897, 911, 918, 919, 920, 921, 924]
+   ServiceArea#1  886:4
+934: [892, 894, 897, 911, 918, 919, 920, 921, 924]
+   ServiceArea#1  886:3
+935: [892, 894, 897, 911, 918, 919, 920, 921, 924]
+   ServiceArea#1  886:2
+936: [892, 894, 897, 911, 918, 919, 920, 921, 924]
+   ServiceArea#1  886:1
+
+ new customer min# 937
+937: [892, 894, 897, 911, 918, 919, 920, 921, 924, 937]
+    Customer# 886 leaves and his total wait time is 51
+938: [894, 897, 911, 918, 919, 920, 921, 924, 937]
+   ServiceArea#1  892:5
+939: [894, 897, 911, 918, 919, 920, 921, 924, 937]
+   ServiceArea#1  892:4
+940: [894, 897, 911, 918, 919, 920, 921, 924, 937]
+   ServiceArea#1  892:3
+941: [894, 897, 911, 918, 919, 920, 921, 924, 937]
+   ServiceArea#1  892:2
+942: [894, 897, 911, 918, 919, 920, 921, 924, 937]
+   ServiceArea#1  892:1
+943: [894, 897, 911, 918, 919, 920, 921, 924, 937]
+    Customer# 892 leaves and his total wait time is 51
+944: [897, 911, 918, 919, 920, 921, 924, 937]
+   ServiceArea#1  894:2
+945: [897, 911, 918, 919, 920, 921, 924, 937]
+   ServiceArea#1  894:1
+946: [897, 911, 918, 919, 920, 921, 924, 937]
+    Customer# 894 leaves and his total wait time is 52
+947: [911, 918, 919, 920, 921, 924, 937]
+   ServiceArea#1  897:3
+948: [911, 918, 919, 920, 921, 924, 937]
+   ServiceArea#1  897:2
+949: [911, 918, 919, 920, 921, 924, 937]
+   ServiceArea#1  897:1
+950: [911, 918, 919, 920, 921, 924, 937]
+    Customer# 897 leaves and his total wait time is 53
+
+ new customer min# 951
+951: [918, 919, 920, 921, 924, 937, 951]
+   ServiceArea#1  911:6
+952: [918, 919, 920, 921, 924, 937, 951]
+   ServiceArea#1  911:5
+953: [918, 919, 920, 921, 924, 937, 951]
+   ServiceArea#1  911:4
+954: [918, 919, 920, 921, 924, 937, 951]
+   ServiceArea#1  911:3
+
+ new customer min# 955
+955: [918, 919, 920, 921, 924, 937, 951, 955]
+   ServiceArea#1  911:2
+956: [918, 919, 920, 921, 924, 937, 951, 955]
+   ServiceArea#1  911:1
+
+ new customer min# 957
+957: [918, 919, 920, 921, 924, 937, 951, 955, 957]
+    Customer# 911 leaves and his total wait time is 46
+
+ new customer min# 958
+958: [919, 920, 921, 924, 937, 951, 955, 957, 958]
+   ServiceArea#1  918:6
+959: [919, 920, 921, 924, 937, 951, 955, 957, 958]
+   ServiceArea#1  918:5
+960: [919, 920, 921, 924, 937, 951, 955, 957, 958]
+   ServiceArea#1  918:4
+961: [919, 920, 921, 924, 937, 951, 955, 957, 958]
+   ServiceArea#1  918:3
+
+ new customer min# 962
+962: [919, 920, 921, 924, 937, 951, 955, 957, 958, 962]
+   ServiceArea#1  918:2
+
+ new customer min# 963
+963: [919, 920, 921, 924, 937, 951, 955, 957, 958, 962, 963]
+   ServiceArea#1  918:1
+
+ new customer min# 964
+964: [919, 920, 921, 924, 937, 951, 955, 957, 958, 962, 963, 964]
+    Customer# 918 leaves and his total wait time is 46
+965: [920, 921, 924, 937, 951, 955, 957, 958, 962, 963, 964]
+   ServiceArea#1  919:1
+966: [920, 921, 924, 937, 951, 955, 957, 958, 962, 963, 964]
+    Customer# 919 leaves and his total wait time is 47
+967: [921, 924, 937, 951, 955, 957, 958, 962, 963, 964]
+   ServiceArea#1  920:6
+968: [921, 924, 937, 951, 955, 957, 958, 962, 963, 964]
+   ServiceArea#1  920:5
+969: [921, 924, 937, 951, 955, 957, 958, 962, 963, 964]
+   ServiceArea#1  920:4
+970: [921, 924, 937, 951, 955, 957, 958, 962, 963, 964]
+   ServiceArea#1  920:3
+971: [921, 924, 937, 951, 955, 957, 958, 962, 963, 964]
+   ServiceArea#1  920:2
+972: [921, 924, 937, 951, 955, 957, 958, 962, 963, 964]
+   ServiceArea#1  920:1
+973: [921, 924, 937, 951, 955, 957, 958, 962, 963, 964]
+    Customer# 920 leaves and his total wait time is 53
+
+ new customer min# 974
+974: [924, 937, 951, 955, 957, 958, 962, 963, 964, 974]
+   ServiceArea#1  921:1
+975: [924, 937, 951, 955, 957, 958, 962, 963, 964, 974]
+    Customer# 921 leaves and his total wait time is 54
+976: [937, 951, 955, 957, 958, 962, 963, 964, 974]
+   ServiceArea#1  924:5
+977: [937, 951, 955, 957, 958, 962, 963, 964, 974]
+   ServiceArea#1  924:4
+
+ new customer min# 978
+978: [937, 951, 955, 957, 958, 962, 963, 964, 974, 978]
+   ServiceArea#1  924:3
+979: [937, 951, 955, 957, 958, 962, 963, 964, 974, 978]
+   ServiceArea#1  924:2
+980: [937, 951, 955, 957, 958, 962, 963, 964, 974, 978]
+   ServiceArea#1  924:1
+981: [937, 951, 955, 957, 958, 962, 963, 964, 974, 978]
+    Customer# 924 leaves and his total wait time is 57
+982: [951, 955, 957, 958, 962, 963, 964, 974, 978]
+   ServiceArea#1  937:2
+983: [951, 955, 957, 958, 962, 963, 964, 974, 978]
+   ServiceArea#1  937:1
+984: [951, 955, 957, 958, 962, 963, 964, 974, 978]
+    Customer# 937 leaves and his total wait time is 47
+
+ new customer min# 985
+985: [955, 957, 958, 962, 963, 964, 974, 978, 985]
+   ServiceArea#1  951:1
+986: [955, 957, 958, 962, 963, 964, 974, 978, 985]
+    Customer# 951 leaves and his total wait time is 35
+987: [957, 958, 962, 963, 964, 974, 978, 985]
+   ServiceArea#1  955:1
+988: [957, 958, 962, 963, 964, 974, 978, 985]
+    Customer# 955 leaves and his total wait time is 33
+989: [958, 962, 963, 964, 974, 978, 985]
+   ServiceArea#1  957:3
+990: [958, 962, 963, 964, 974, 978, 985]
+   ServiceArea#1  957:2
+991: [958, 962, 963, 964, 974, 978, 985]
+   ServiceArea#1  957:1
+
+ new customer min# 992
+992: [958, 962, 963, 964, 974, 978, 985, 992]
+    Customer# 957 leaves and his total wait time is 35
+993: [962, 963, 964, 974, 978, 985, 992]
+   ServiceArea#1  958:5
+994: [962, 963, 964, 974, 978, 985, 992]
+   ServiceArea#1  958:4
+995: [962, 963, 964, 974, 978, 985, 992]
+   ServiceArea#1  958:3
+
+ new customer min# 996
+996: [962, 963, 964, 974, 978, 985, 992, 996]
+   ServiceArea#1  958:2
+997: [962, 963, 964, 974, 978, 985, 992, 996]
+   ServiceArea#1  958:1
+998: [962, 963, 964, 974, 978, 985, 992, 996]
+    Customer# 958 leaves and his total wait time is 40
+999: [963, 964, 974, 978, 985, 992, 996]
+   ServiceArea#1  962:3
+1000: [963, 964, 974, 978, 985, 992, 996]
+   ServiceArea#1  962:2
+
+ new customer min# 1001
+1001: [963, 964, 974, 978, 985, 992, 996, 1001]
+   ServiceArea#1  962:1
+1002: [963, 964, 974, 978, 985, 992, 996, 1001]
+    Customer# 962 leaves and his total wait time is 40
+1003: [964, 974, 978, 985, 992, 996, 1001]
+   ServiceArea#1  963:6
+
+ new customer min# 1004
+1004: [964, 974, 978, 985, 992, 996, 1001, 1004]
+   ServiceArea#1  963:5
+1005: [964, 974, 978, 985, 992, 996, 1001, 1004]
+   ServiceArea#1  963:4
+1006: [964, 974, 978, 985, 992, 996, 1001, 1004]
+   ServiceArea#1  963:3
+1007: [964, 974, 978, 985, 992, 996, 1001, 1004]
+   ServiceArea#1  963:2
+
+ new customer min# 1008
+1008: [964, 974, 978, 985, 992, 996, 1001, 1004, 1008]
+   ServiceArea#1  963:1
+1009: [964, 974, 978, 985, 992, 996, 1001, 1004, 1008]
+    Customer# 963 leaves and his total wait time is 46
+1010: [974, 978, 985, 992, 996, 1001, 1004, 1008]
+   ServiceArea#1  964:3
+1011: [974, 978, 985, 992, 996, 1001, 1004, 1008]
+   ServiceArea#1  964:2
+1012: [974, 978, 985, 992, 996, 1001, 1004, 1008]
+   ServiceArea#1  964:1
+1013: [974, 978, 985, 992, 996, 1001, 1004, 1008]
+    Customer# 964 leaves and his total wait time is 49
+1014: [978, 985, 992, 996, 1001, 1004, 1008]
+   ServiceArea#1  974:3
+1015: [978, 985, 992, 996, 1001, 1004, 1008]
+   ServiceArea#1  974:2
+1016: [978, 985, 992, 996, 1001, 1004, 1008]
+   ServiceArea#1  974:1
+1017: [978, 985, 992, 996, 1001, 1004, 1008]
+    Customer# 974 leaves and his total wait time is 43
+1018: [985, 992, 996, 1001, 1004, 1008]
+   ServiceArea#1  978:4
+
+ new customer min# 1019
+1019: [985, 992, 996, 1001, 1004, 1008, 1019]
+   ServiceArea#1  978:3
+
+ new customer min# 1020
+1020: [985, 992, 996, 1001, 1004, 1008, 1019, 1020]
+   ServiceArea#1  978:2
+1021: [985, 992, 996, 1001, 1004, 1008, 1019, 1020]
+   ServiceArea#1  978:1
+
+ new customer min# 1022
+1022: [985, 992, 996, 1001, 1004, 1008, 1019, 1020, 1022]
+    Customer# 978 leaves and his total wait time is 44
+1023: [992, 996, 1001, 1004, 1008, 1019, 1020, 1022]
+   ServiceArea#1  985:1
+1024: [992, 996, 1001, 1004, 1008, 1019, 1020, 1022]
+    Customer# 985 leaves and his total wait time is 39
+1025: [996, 1001, 1004, 1008, 1019, 1020, 1022]
+   ServiceArea#1  992:6
+1026: [996, 1001, 1004, 1008, 1019, 1020, 1022]
+   ServiceArea#1  992:5
+
+ new customer min# 1027
+1027: [996, 1001, 1004, 1008, 1019, 1020, 1022, 1027]
+   ServiceArea#1  992:4
+1028: [996, 1001, 1004, 1008, 1019, 1020, 1022, 1027]
+   ServiceArea#1  992:3
+1029: [996, 1001, 1004, 1008, 1019, 1020, 1022, 1027]
+   ServiceArea#1  992:2
+1030: [996, 1001, 1004, 1008, 1019, 1020, 1022, 1027]
+   ServiceArea#1  992:1
+1031: [996, 1001, 1004, 1008, 1019, 1020, 1022, 1027]
+    Customer# 992 leaves and his total wait time is 39
+1032: [1001, 1004, 1008, 1019, 1020, 1022, 1027]
+   ServiceArea#1  996:3
+1033: [1001, 1004, 1008, 1019, 1020, 1022, 1027]
+   ServiceArea#1  996:2
+1034: [1001, 1004, 1008, 1019, 1020, 1022, 1027]
+   ServiceArea#1  996:1
+
+ new customer min# 1035
+1035: [1001, 1004, 1008, 1019, 1020, 1022, 1027, 1035]
+    Customer# 996 leaves and his total wait time is 39
+1036: [1004, 1008, 1019, 1020, 1022, 1027, 1035]
+   ServiceArea#1  1001:2
+1037: [1004, 1008, 1019, 1020, 1022, 1027, 1035]
+   ServiceArea#1  1001:1
+1038: [1004, 1008, 1019, 1020, 1022, 1027, 1035]
+    Customer# 1001 leaves and his total wait time is 37
+1039: [1008, 1019, 1020, 1022, 1027, 1035]
+   ServiceArea#1  1004:3
+1040: [1008, 1019, 1020, 1022, 1027, 1035]
+   ServiceArea#1  1004:2
+1041: [1008, 1019, 1020, 1022, 1027, 1035]
+   ServiceArea#1  1004:1
+
+ new customer min# 1042
+1042: [1008, 1019, 1020, 1022, 1027, 1035, 1042]
+    Customer# 1004 leaves and his total wait time is 38
+1043: [1019, 1020, 1022, 1027, 1035, 1042]
+   ServiceArea#1  1008:4
+
+ new customer min# 1044
+1044: [1019, 1020, 1022, 1027, 1035, 1042, 1044]
+   ServiceArea#1  1008:3
+
+ new customer min# 1045
+1045: [1019, 1020, 1022, 1027, 1035, 1042, 1044, 1045]
+   ServiceArea#1  1008:2
+1046: [1019, 1020, 1022, 1027, 1035, 1042, 1044, 1045]
+   ServiceArea#1  1008:1
+1047: [1019, 1020, 1022, 1027, 1035, 1042, 1044, 1045]
+    Customer# 1008 leaves and his total wait time is 39
+1048: [1020, 1022, 1027, 1035, 1042, 1044, 1045]
+   ServiceArea#1  1019:4
+1049: [1020, 1022, 1027, 1035, 1042, 1044, 1045]
+   ServiceArea#1  1019:3
+1050: [1020, 1022, 1027, 1035, 1042, 1044, 1045]
+   ServiceArea#1  1019:2
+1051: [1020, 1022, 1027, 1035, 1042, 1044, 1045]
+   ServiceArea#1  1019:1
+1052: [1020, 1022, 1027, 1035, 1042, 1044, 1045]
+    Customer# 1019 leaves and his total wait time is 33
+1053: [1022, 1027, 1035, 1042, 1044, 1045]
+   ServiceArea#1  1020:3
+
+ new customer min# 1054
+1054: [1022, 1027, 1035, 1042, 1044, 1045, 1054]
+   ServiceArea#1  1020:2
+1055: [1022, 1027, 1035, 1042, 1044, 1045, 1054]
+   ServiceArea#1  1020:1
+1056: [1022, 1027, 1035, 1042, 1044, 1045, 1054]
+    Customer# 1020 leaves and his total wait time is 36
+1057: [1027, 1035, 1042, 1044, 1045, 1054]
+   ServiceArea#1  1022:6
+1058: [1027, 1035, 1042, 1044, 1045, 1054]
+   ServiceArea#1  1022:5
+1059: [1027, 1035, 1042, 1044, 1045, 1054]
+   ServiceArea#1  1022:4
+1060: [1027, 1035, 1042, 1044, 1045, 1054]
+   ServiceArea#1  1022:3
+1061: [1027, 1035, 1042, 1044, 1045, 1054]
+   ServiceArea#1  1022:2
+1062: [1027, 1035, 1042, 1044, 1045, 1054]
+   ServiceArea#1  1022:1
+1063: [1027, 1035, 1042, 1044, 1045, 1054]
+    Customer# 1022 leaves and his total wait time is 41
+
+ new customer min# 1064
+1064: [1035, 1042, 1044, 1045, 1054, 1064]
+   ServiceArea#1  1027:6
+
+ new customer min# 1065
+1065: [1035, 1042, 1044, 1045, 1054, 1064, 1065]
+   ServiceArea#1  1027:5
+1066: [1035, 1042, 1044, 1045, 1054, 1064, 1065]
+   ServiceArea#1  1027:4
+1067: [1035, 1042, 1044, 1045, 1054, 1064, 1065]
+   ServiceArea#1  1027:3
+1068: [1035, 1042, 1044, 1045, 1054, 1064, 1065]
+   ServiceArea#1  1027:2
+1069: [1035, 1042, 1044, 1045, 1054, 1064, 1065]
+   ServiceArea#1  1027:1
+1070: [1035, 1042, 1044, 1045, 1054, 1064, 1065]
+    Customer# 1027 leaves and his total wait time is 43
+1071: [1042, 1044, 1045, 1054, 1064, 1065]
+   ServiceArea#1  1035:2
+1072: [1042, 1044, 1045, 1054, 1064, 1065]
+   ServiceArea#1  1035:1
+
+ new customer min# 1073
+1073: [1042, 1044, 1045, 1054, 1064, 1065, 1073]
+    Customer# 1035 leaves and his total wait time is 38
+1074: [1044, 1045, 1054, 1064, 1065, 1073]
+   ServiceArea#1  1042:5
+1075: [1044, 1045, 1054, 1064, 1065, 1073]
+   ServiceArea#1  1042:4
+1076: [1044, 1045, 1054, 1064, 1065, 1073]
+   ServiceArea#1  1042:3
+1077: [1044, 1045, 1054, 1064, 1065, 1073]
+   ServiceArea#1  1042:2
+1078: [1044, 1045, 1054, 1064, 1065, 1073]
+   ServiceArea#1  1042:1
+1079: [1044, 1045, 1054, 1064, 1065, 1073]
+    Customer# 1042 leaves and his total wait time is 37
+1080: [1045, 1054, 1064, 1065, 1073]
+   ServiceArea#1  1044:2
+1081: [1045, 1054, 1064, 1065, 1073]
+   ServiceArea#1  1044:1
+1082: [1045, 1054, 1064, 1065, 1073]
+    Customer# 1044 leaves and his total wait time is 38
+1083: [1054, 1064, 1065, 1073]
+   ServiceArea#1  1045:3
+1084: [1054, 1064, 1065, 1073]
+   ServiceArea#1  1045:2
+1085: [1054, 1064, 1065, 1073]
+   ServiceArea#1  1045:1
+1086: [1054, 1064, 1065, 1073]
+    Customer# 1045 leaves and his total wait time is 41
+1087: [1064, 1065, 1073]
+   ServiceArea#1  1054:5
+1088: [1064, 1065, 1073]
+   ServiceArea#1  1054:4
+1089: [1064, 1065, 1073]
+   ServiceArea#1  1054:3
+1090: [1064, 1065, 1073]
+   ServiceArea#1  1054:2
+1091: [1064, 1065, 1073]
+   ServiceArea#1  1054:1
+1092: [1064, 1065, 1073]
+    Customer# 1054 leaves and his total wait time is 38
+1093: [1065, 1073]
+   ServiceArea#1  1064:5
+1094: [1065, 1073]
+   ServiceArea#1  1064:4
+1095: [1065, 1073]
+   ServiceArea#1  1064:3
+1096: [1065, 1073]
+   ServiceArea#1  1064:2
+1097: [1065, 1073]
+   ServiceArea#1  1064:1
+1098: [1065, 1073]
+    Customer# 1064 leaves and his total wait time is 34
+1099: [1073]
+   ServiceArea#1  1065:1
+1100: [1073]
+    Customer# 1065 leaves and his total wait time is 35
+1101: []
+   ServiceArea#1  1073:6
+1102: []
+   ServiceArea#1  1073:5
+1103: []
+   ServiceArea#1  1073:4
+1104: []
+   ServiceArea#1  1073:3
+1105: []
+   ServiceArea#1  1073:2
+1106: []
+   ServiceArea#1  1073:1
+1107: []
+    Customer# 1073 leaves and his total wait time is 34
